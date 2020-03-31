@@ -2,25 +2,29 @@
 description: Felsökaren undersöker dina webbsidor och hjälper dig att hitta problem med hur Experience Cloud-lösningarna implementeras
 keywords: debugger;experience cloud debugger extension;chrome;extension
 seo-description: Teknisk dokumentation för Adobe Experience Cloud Debugger 2.0 Chrome och Firefox Extension - Granska dina webbsidor och förstå problem med Experience Cloud-lösningens implementeringar
-seo-title: Adobe Experience Cloud Debugger 2.0 Chrome och Firefox Extension
-title: Adobe Experience Cloud Debugger 2.0-tillägg
+seo-title: Adobe Experience Platform Debugger Chrome och Firefox Extension
+title: Adobe Experience Platform Debugger Extension
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Adobe Experience Cloud Debugger 2.0-tillägg{#adobe-experience-cloud-debugger-extension}
+# (Beta) Adobe Experience Platform Debugger 2.0 {#adobe-experience-platform-debugger}
 
-Med tillägget [Adobe Experience Cloud Debugger 2.0 för Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) och [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/) kan du undersöka dina webbsidor och hitta problem med implementeringen av Experience Cloud-lösningar.
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
-Använd tillägget Adobe Experience Cloud Debugger 2.0 tillsammans med övriga Adobe-aktiveringslösningar för ett arbetsflöde som följande:
+Felsökaren för [Adobe Experience Platform för Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) och [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/) undersöker dina webbsidor och hjälper dig att hitta problem med hur Experience Cloud-lösningarna implementeras.
+
+Använd Adobe Experience Platform Debugger tillsammans med andra Adobe-aktiveringslösningar för ett arbetsflöde som följande:
 
 1. Använd [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) eller [DTM](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html) för att infoga kod som aktiverar [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) -lösningar på era sidor.
 
 1. Använd [Adobe Cloud Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/) för att testa implementeringarna.
-1. Använd Adobe Experience Cloud Debugger-tillägget för att felsöka problem som hittats av granskare för att undersöka annan information om era implementeringar.
+1. Använd Adobe Experience Platform Debugger för att felsöka problem som Auditor har hittat eller för att undersöka annan information om era implementeringar.
 
 Ovanstående steg utförs inte nödvändigtvis i den ordningen, men det är en vanlig process.
 
@@ -30,5 +34,5 @@ Ovanstående steg utförs inte nödvändigtvis i den ordningen, men det är en v
 
 Använd Felsökning för att samla in information som hjälper er att förstå hur era Experience Cloud-lösningar implementeras. Exempel:
 
-* **Experience Platform Launch:** Se vilken egenskap, vilken miljö, vilken version som driftsätts på en sida.
+* **Starta:** Se vilken egenskap, miljö, bygge som distribueras på en sida.
 * **Target:** Se vilka aktiviteter du är berättigad till eller inte är berättigad till och varför.
