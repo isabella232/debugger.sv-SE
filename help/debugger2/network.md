@@ -6,12 +6,16 @@ seo-title: Nätverksinformation
 title: Nätverksinformation
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Nätverksinformation{#network-information}
+# Nätverk{#network}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 Om du vill visa nätverksinformation klickar du på **[!UICONTROL Network]**.
 
@@ -25,7 +29,7 @@ Den här skärmen är användbar när du vill jämföra nyckelvärdepar i olika 
 >
 >I nuläget visas inte alla parametrar som skickas i lösningsanrop (till exempel kontextvariabler för Analytics, anpassade målparametrar eller kundens ID:n för Experience Cloud ID-tjänst) på nätverksskärmen.
 
-Om du vill filtrera informationen efter lösning väljer du den lösning du vill visa i listan i den vänstra navigeringen. Följande exempel filtreras så att endast Analytics visas:
+Om du vill ändra information per lösning väljer du den lösning du vill visa i listan i det vänstra navigeringsfältet. Följande exempel filtreras så att endast Analytics visas:
 
 ![](assets/network-analytics.jpg)
 
