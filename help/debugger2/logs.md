@@ -6,14 +6,18 @@ seo-title: Loggar
 title: Loggar
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 translation-type: tm+mt
-source-git-commit: b4e96582174d2e36c4ad37f0f582b04d3bb199e1
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # Loggar{#logs}
 
-Loggskärmen innehåller information om DTM-implementeringar. Verktyget Konsolfelsökning för DTM behöver inte aktiveras för att den här informationen ska kunna visas. Du kan filtrera efter lösningar som implementerats via tillhörande DTM-verktyg.
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+
+Loggskärmen innehåller information om DTM-, Launch- och AEP Web SDK-implementeringar. Verktyget Konsolfelsökning för DTM behöver inte aktiveras för att den här informationen ska kunna visas. Du kan filtrera efter lösningar som implementerats via tillhörande verktyg.
 
 ![](assets/logs.jpg)
 
