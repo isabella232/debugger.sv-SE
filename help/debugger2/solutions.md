@@ -6,12 +6,16 @@ seo-title: Flikar för lösningar i Adobe Debugger
 title: Lösningsflikar
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 translation-type: tm+mt
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # Lösningar{#solution-tabs}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 Klicka på en lösning för att se resultaten för specifika Adobe Experience Cloud-lösningar.
 
@@ -27,7 +31,7 @@ Analysskärmen innehåller information om [Analytics](https://docs.adobe.com/con
 
 ## Mål {#section-988873ba5ede4317953193bd7ac5474c}
 
-Använd målskärmen för att visa [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html) -begäranden eller [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) -svarsinformation.
+Använd målskärmen för att visa [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html) -begäranden<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->.
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
@@ -35,7 +39,7 @@ Använd fliken [Audience Manager](https://docs.adobe.com/content/help/en/audienc
 
 ## Starta {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Använd startssektionen för att visa startbegäranden. Du kan också klicka **[!UICONTROL Configuration]** för att konfigurera [inbäddningskoder](https://docs.adobe.com/content/help/en/launch/using/reference/upgrade/link-dtm-embed-code.html). Du kan redigera, ersätta eller lägga till fler inbäddningskoder i Felsökning.
+Använd startssektionen för att visa startbegäranden. Du kan också klicka **[!UICONTROL Configuration]** för att konfigurera [inbäddningskoder](https://docs.adobe.com/content/help/en/launch/using/reference/upgrade/link-dtm-embed-code.html). Du kan redigera, ersätta eller lägga till fler inbäddningskoder i Felsökning. Om du loggar in kan du välja en alternativ egenskap med listrutorna.
 
 ## Dynamisk tagghantering {#dynamic-tag-management}
 
