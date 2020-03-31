@@ -6,27 +6,26 @@ seo-title: Sammanfattningsskärm
 title: Sammanfattningsskärm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # Sammanfattningsskärm{#summary-screen}
 
-Om du vill köra Experience Cloud Debugger klickar du på tilläggsikonen i tilläggsfältet och öppnar sedan sidan som du vill granska i Chrome.
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+
+Om du vill köra Adobe Experience Platform Debugger klickar du på ikonen i webbläsarfältet och öppnar sedan sidan som du vill granska i webbläsaren.
 
 ![](assets/start-icon.jpg)
 
-Skärmen Adobe Experience Cloud Debugger Summary visas.
+Skärmen Adobe Experience Platform Debugger Summary visas.
 
 ![](assets/summary.jpg)
 
 På den här skärmen visas information om varje Adobe Experience Cloud-lösning. Den information som visas varierar beroende på lösning, men omfattar vanligtvis information som lösningsbiblioteket och version (till exempel&quot;AppMeasurement v2.9&quot;) och kontoidentifierare (till exempel ID för Analytics-rapportsviten, målklientkoden, partner-ID för Audience Manager osv.)
-
-
-## Kör en revision i revisor {#section-82bc57440406461ebf27a16855b71655}
-
-Du kan använda Adobe Auditor för att utföra en serie granskningar på din sida. Om du vill köra Granskare klickar du på **[!UICONTROL Auditor]** den översta menyn och sedan på **[!UICONTROL Audit Page Now]**. Klicka **[!UICONTROL Run Multi-Page Audit Now]** för att öppna Adobe Auvisor.
 
 ## Information som visas i Felsökning {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
@@ -99,35 +98,39 @@ Felsökaren visar följande information för varje lösning:
    <td colname="col2"> <p>Den <a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external"> miljö</a> som används av Launch-biblioteket </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Skriptkatalog </p> </td> 
-   <td colname="col2"> <p>Katalogen där Launch-skriptet lagras </p> </td> 
+   <td colname="col1"> <p>Tillägg </p> </td> 
+   <td colname="col2"> <p>De tillägg som används på sidan </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-**Adobe DTM**
+**Adobe Web SDK**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Biblioteksnamn </p> </td> 
-   <td colname="col2"> <p>Namnet på Adobe DTM<a href="https://experiencecloud.adobe.com/resources/help/en_US/dtm/library_management.html" format="html" scope="external"> -biblioteket</a> </p> </td> 
+   <td colname="col1"> <p>Biblioteksversion </p> </td> 
+   <td colname="col2"> <p>Numret på AEB Web SDK- <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">biblioteksversionen</a> </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Turbinversionen </p> </td> 
+   <td colname="col1"> <p>Namnutrymme</p> </td> 
+   <td colname="col2"> <p>Namnet som identifieras i tillägget</p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Skapad den </p> </td> 
-   <td colname="col2"> <p>Startdatum <a href="https://experiencecloud.adobe.com/resources/help/en_US/dtm/library_management.html" format="html" scope="external"> för</a> biblioteket </p> </td> 
+   <td colname="col1"> <p>Egenskaps-ID </p> </td> 
+   <td colname="col2"> <p>Namnet på Launch-egenskapen som anges i tillägget </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Miljö </p> </td> 
-   <td colname="col2"> <p>Den miljö som används av DTM-biblioteket </p> </td> 
+   <td colname="col1"> <p>Edge Domain </p> </td> 
+   <td colname="col2"> <p>Den domän som Adobe Experience Platform-tillägget skickar och tar emot data från </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Skriptkatalog </p> </td> 
-   <td colname="col2"> <p>Katalogen där DTM-skriptet lagras </p> </td> 
+   <td colname="col1"> <p>IMS-organisations-ID </p> </td> 
+   <td colname="col2"> <p>Organisationen som du vill att data skickas till på Adobe, enligt vad som anges i tillägget </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Loggning aktiverad </p> </td> 
+   <td colname="col2"> <p>Anger om loggning har aktiverats för den här egenskapen</p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -160,12 +163,16 @@ Felsökaren visar följande information för varje lösning:
    <td colname="col2"> <p>Aktuell version av <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a> eller mbox.js </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Namn på global mbox </p> </td> 
+   <td colname="col1"> <p>Namn på global begäran </p> </td> 
    <td colname="col2"> <p>Den<a href="https://docs.adobe.com/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> globala mbox</a> refererar till det enda serveranrop som görs högst upp på varje webbsida i Target-implementeringen </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Namn på mbox </p> </td> 
-   <td colname="col2"> <p>Namnet på en mbox runt en <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> plats</a> på sidan. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
+   <td colname="col1"> <p>Sidinläsningshändelse </p> </td> 
+   <td colname="col2"> <p>Den typ av <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/target-extension/overview.html" format="html" scope="external">händelse</a> som utlöses när sidan läses in </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Namn på begäran </p> </td> 
+   <td colname="col2"> <p>Namnet på en begäran runt en <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> plats</a> på sidan. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Aktivitetsnamn </p> </td> 
@@ -176,15 +183,15 @@ Felsökaren visar följande information för varje lösning:
    <td colname="col2"> <p>ID för målaktiviteten. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Mottagarnamn </p> </td> 
+   <td colname="col1"> <p>Experience Name </p> </td> 
    <td colname="col2"> <p>Namnet på Target- <a href="https://docs.adobe.com/content/help/en/target/using/experiences/experiences.html" format="html" scope="external"> upplevelsen</a>. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Mottagar-ID </p> </td> 
-   <td colname="col2"> <p>ID för målreceptet. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
+   <td colname="col1"> <p>Experience ID </p> </td> 
+   <td colname="col2"> <p>ID för Target-upplevelsen. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Erbjudande </p> </td> 
+   <td colname="col1"> <p>Namn på erbjudande</p> </td> 
    <td colname="col2"> <p>Namnet på Target- <a href="https://docs.adobe.com/content/help/en/target/using/experiences/offers/manage-content.html" format="html" scope="external"> erbjudandet</a>. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
