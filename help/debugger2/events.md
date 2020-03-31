@@ -5,12 +5,16 @@ seo-description: 'null'
 seo-title: Händelser
 title: Händelser
 translation-type: tm+mt
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # Händelser{#events}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 På skärmen Händelser visas en grafisk vy över händelser som inträffar, som visas på en tidslinje.
 
@@ -30,7 +34,9 @@ Så här aktiverar du spårning av datalagerändringar på tidslinjen:
 
 1. Klicka på ikonen Kugghjulet längst upp till höger.
 1. Ange namnet på datalagret.
+
    ![](assets/event-datalayer.jpg)
+
 1. Klicka på **[!UICONTROL Save]**.
 
 Information om datalagrets ändringar visar allt som har tagits bort eller lagts till. Du kan klicka på **{}** om du vill se mer detaljerad ut i datalagret.
