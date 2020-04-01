@@ -6,7 +6,7 @@ seo-title: Chrome-tillägg för Adobe Experience Cloud-felsökning
 title: Adobe Experience Cloud Debugger Extension
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
 
@@ -17,9 +17,9 @@ Felsökningstillägget för [Adobe Experience Cloud för Chrome](https://chrome.
 
 Använd Adobe Experience Cloud Debugger-tillägget med övriga Adobe-aktiveringslösningar för ett arbetsflöde som följande:
 
-1. Använd [Launch](https://docs.adobelaunch.com) eller [DTM](https://experiencecloud.adobe.com/resources/help/en_US/dtm/) för att infoga kod som aktiverar [Adobe Experience Cloud](https://marketing.adobe.com/resources/help/en_US/mcloud/) -lösningar på era sidor.
+1. Använd [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) eller [DTM](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html) för att infoga kod som aktiverar [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html) -lösningar på era sidor.
 
-1. Använd [Adobe Cloud Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/) för att testa implementeringarna.
+1. Använd [Adobe Cloud Platform Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) för att testa implementeringarna.
 1. Använd Adobe Experience Cloud Debugger-tillägget för att felsöka problem som hittats av granskare för att undersöka annan information om era implementeringar.
 
 Ovanstående steg utförs inte nödvändigtvis i den ordningen, men det är en vanlig process.
