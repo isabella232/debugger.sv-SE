@@ -6,7 +6,7 @@ seo-title: Flikar för lösningar i Adobe Debugger
 title: Lösningsflikar
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
 
@@ -17,7 +17,7 @@ Klicka på lösningsflikarna för att se resultaten för specifika Adobe Experie
 
 ## Analyser {#section-f71dfcc22bb44c86bec328491606a482}
 
-Fliken Analytics innehåller information om er [Analytics](https://experiencecloud.adobe.com/resources/help/en_US/reference/) -implementering.
+Fliken Analytics innehåller information om er [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html) -implementering.
 
 **Träffar**
 
@@ -33,7 +33,7 @@ Klicka på rapportsvitens ID för att utöka vyn:
 
 ![](assets/analytics-hits-expand.jpg)
 
-På den här skärmen visas alla begäranden sedan felsökningen öppnades eller förfrågningarna rensades. Standardparametrar mappas automatiskt till egna namn. [Variablerna Prop och eVar](https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/props_eVars.html) kan mappas till egna egna namn (till exempel kan &quot;prop1&quot; visas som &quot;användartyp&quot;) om du autentiserar med funktionen &quot;Länkanalys&quot; (se nedan). Förfrågningar visas i sekvens från vänster till höger.
+På den här skärmen visas alla begäranden sedan felsökningen öppnades eller förfrågningarna rensades. Standardparametrar mappas automatiskt till egna namn. [Variablerna Prop och eVar](https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/evar.html) kan mappas till egna egna namn (till exempel kan &quot;prop1&quot; visas som &quot;användartyp&quot;) om du autentiserar med funktionen &quot;Länkanalys&quot; (se nedan). Förfrågningar visas i sekvens från vänster till höger.
 
 **Ladda ned:** Spara alla begäranden som gjorts i rapportsviten som ett Excel-kalkylblad.
 
@@ -93,7 +93,7 @@ I följande video visas Mbox Trace:
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
-Använd fliken [Audience Manager](https://experiencecloud.adobe.com/resources/help/en_US/aam/) för att visa information om [händelser](https://experiencecloud.adobe.com/resources/help/en_US/aam/dcs-event-calls.html). Klicka på organisationen för att expandera den och visa informationen.
+Använd fliken [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html) för att visa information om [händelser](https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html). Klicka på organisationen för att expandera den och visa informationen.
 
 ![](assets/audience-manager.jpg)
 
@@ -105,7 +105,7 @@ ID-synkronisering är det första steget i den inkommande, asynkrona dataöverf�
 
 ![](assets/aam-idsync.jpg)
 
-Mer information finns i [ID-synkronisering för inkommande dataöverföringar](https://experiencecloud.adobe.com/resources/help/en_US/aam/c_id_sync_in.html) i produktdokumentationen för Audience Manager.
+Mer information finns i [ID-synkronisering för inkommande dataöverföringar](https://docs.adobe.com/content/help/en/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html) i produktdokumentationen för Audience Manager.
 
 ## Advertising Cloud {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
@@ -117,7 +117,7 @@ Klicka **[!UICONTROL Clear All Requests]** för att ta bort de begäranden som v
 
 ## Experience Cloud ID-tjänst {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
-Använd fliken Experience Cloud ID Service för att visa begäranden om [Experience Cloud ID-tjänst](https://experiencecloud.adobe.com/resources/help/en_US/mcvid/) .
+Använd fliken Experience Cloud ID Service för att visa begäranden om [Experience Cloud ID-tjänst](https://docs.adobe.com/content/help/en/id-service/using/home.html) .
 
 Klicka **[!UICONTROL Requests]** och expandera sedan miljön för att visa information om Experience Cloud ID-tjänsten.
 
