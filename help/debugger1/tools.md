@@ -6,7 +6,7 @@ seo-title: verktyg
 title: verktyg
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
 
@@ -17,7 +17,7 @@ På skärmen Verktyg kan du aktivera eller inaktivera olika verktyg för den ins
 
 ![](assets/tools.jpg)
 
-Du kan infoga Launch eller DTM dynamiskt på alla sidor för att testa något på en sida som inte har Launch eller DTM installerat. Klicka på **[!UICONTROL Embed Code]** ikonen, skriv [inbäddningskoden](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) och klicka på **[!UICONTROL Save]**.
+Du kan infoga Launch eller DTM dynamiskt på alla sidor för att testa något på en sida som inte har Launch eller DTM installerat. Klicka på **[!UICONTROL Embed Code]** ikonen, skriv [inbäddningskoden](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) och klicka på **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
