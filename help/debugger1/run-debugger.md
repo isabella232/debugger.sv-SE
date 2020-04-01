@@ -6,7 +6,7 @@ seo-title: Sammanfattningsskärm
 title: Sammanfattningsskärm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
 
@@ -62,19 +62,19 @@ Felsökaren visar följande information för varje lösning:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Rapportsvit(er) </p> </td> 
-   <td colname="col2"> <p>En <a href="https://experiencecloud.adobe.com/resources/help/en_US/reference/report_suites_admin.html" format="html" scope="external"> rapportserie</a> definierar den fullständiga, oberoende rapporteringen på en vald webbplats, en uppsättning webbplatser eller en delmängd av webbsidor </p> </td> 
+   <td colname="col2"> <p>En <a href="https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html" format="html" scope="external"> rapportserie</a> definierar den fullständiga, oberoende rapporteringen på en vald webbplats, en uppsättning webbplatser eller en delmängd av webbsidor </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Den <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/appmeasure_mjs.html" format="html" scope="external"> AppMeasurement</a> -version som är definierad för sidan </p> </td> 
+   <td colname="col2"> <p>Den <a href="https://docs.adobe.com/content/help/en/analytics/implementation/js/overview.html" format="html" scope="external"> AppMeasurement</a> -version som är definierad för sidan </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Besökarversion </p> </td> 
-   <td colname="col2"> <p>Versionen av <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> besökar-ID</a> -biblioteket. </p> </td> 
+   <td colname="col2"> <p>Versionen av <a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external"> besökar-ID</a> -biblioteket. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Sidnamn </p> </td> 
-   <td colname="col2"> <p>Variabeln <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/pageName.html" format="html" scope="external"> pageName</a> som skickas till Analytics och som innehåller ett användarvänligt namn för webbplatsen. </p> </td> 
+   <td colname="col2"> <p>Variabeln <a href="https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/page-variables.html" format="html" scope="external"> pageName</a> som skickas till Analytics och som innehåller ett användarvänligt namn för webbplatsen. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Moduler </p> </td> 
@@ -89,15 +89,15 @@ Felsökaren visar följande information för varje lösning:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Partner </p> </td> 
-   <td colname="col2"> <p>DIL-instansens <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_dil_get_partner.html" format="html" scope="external"> partnernamn</a> </p> </td> 
+   <td colname="col2"> <p>DIL-instansens <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-instance-methods.html#getpartner" format="html" scope="external"> partnernamn</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Versionsnumret<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_api_return_versions_dil.html" format="html" scope="external"> för</a> DIL-instansen </p> </td> 
+   <td colname="col2"> <p>Versionsnumret<a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-dil-methods.html#return-version-dil" format="html" scope="external"> för</a> DIL-instansen </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p>Det <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="html" scope="external"> unika användar-ID</a> som är associerat med DIL-instansen </p> </td> 
+   <td colname="col2"> <p>Det <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external"> unika användar-ID</a> som är associerat med DIL-instansen </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -108,19 +108,19 @@ Felsökaren visar följande information för varje lösning:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Namn </p> </td> 
-   <td colname="col2"> <p>Namnet på Adobe Launch- <a href="https://docs.adobelaunch.com/administration/companies-and-properties" format="https" scope="external"> egenskapen</a> </p> </td> 
+   <td colname="col2"> <p>Namnet på Adobe Launch- <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> egenskapen</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Version av <a href="https://developer.adobelaunch.com/guides/extensions/turbine-free-variable/" format="https" scope="external"> turbin</a> </p> </td> 
+   <td colname="col2"> <p>Version av <a href="https://developer.adobelaunch.com/extensions/reference/turbine-free-variable/" format="https" scope="external"> turbin</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Skapad den </p> </td> 
-   <td colname="col2"> <p>Startdatum <a href="https://docs.adobelaunch.com/publishing/libraries" format="https" scope="external"> för</a> biblioteket </p> </td> 
+   <td colname="col2"> <p>Startdatum <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> för</a> biblioteket </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Miljö </p> </td> 
-   <td colname="col2"> <p>Den <a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external"> miljö</a> som används av Launch-biblioteket </p> </td> 
+   <td colname="col2"> <p>Den <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> miljö</a> som används av Launch-biblioteket </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Skriptkatalog </p> </td> 
@@ -135,7 +135,7 @@ Felsökaren visar följande information för varje lösning:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Biblioteksnamn </p> </td> 
-   <td colname="col2"> <p>Namnet på Adobe DTM<a href="https://experiencecloud.adobe.com/resources/help/en_US/dtm/library_management.html" format="html" scope="external"> -biblioteket</a> </p> </td> 
+   <td colname="col2"> <p>Namnet på Adobe DTM<a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external"> -biblioteket</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
@@ -143,7 +143,7 @@ Felsökaren visar följande information för varje lösning:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Skapad den </p> </td> 
-   <td colname="col2"> <p>Startdatum <a href="https://experiencecloud.adobe.com/resources/help/en_US/dtm/library_management.html" format="html" scope="external"> för</a> biblioteket </p> </td> 
+   <td colname="col2"> <p>Startdatum <a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external"> för</a> biblioteket </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Miljö </p> </td> 
@@ -162,11 +162,11 @@ Felsökaren visar följande information för varje lösning:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud-organisations-ID </p> </td> 
-   <td colname="col2"> <p>Ditt <a href="https://experiencecloud.adobe.com/resources/help/en_US/mcvid/" format="https" scope="external"> organisations-ID</a> </p> </td> 
+   <td colname="col2"> <p>Ditt <a href="https://docs.adobe.com/content/help/en/id-service/using/home.html" format="https" scope="external"> organisations-ID</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Versionen för<a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> besökar-ID</a> -biblioteket </p> </td> 
+   <td colname="col2"> <p>Versionen för<a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external"> besökar-ID</a> -biblioteket </p> </td> 
   </tr> 
  </tbody> 
 </table>
