@@ -4,16 +4,16 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;
 seo-description: 'null'
 title: Revisor
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Revisor{#auditor}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+>Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 Du kan använda Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) för att utföra en serie granskningar på din sida från Granskarskärmen.
 
