@@ -6,16 +6,16 @@ seo-title: Sammanfattningsskärm
 title: Sammanfattningsskärm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Sammanfattningsskärm{#summary-screen}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+>Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 Om du vill köra Adobe Experience Platform Debugger klickar du på ikonen i webbläsarfältet och öppnar sedan sidan som du vill granska i webbläsaren.
 
