@@ -5,16 +5,16 @@ seo-description: 'null'
 seo-title: Händelser
 title: Händelser
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Händelser{#events}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+>Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 På skärmen Händelser visas en grafisk vy över händelser som inträffar, som visas på en tidslinje.
 
