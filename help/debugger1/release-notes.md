@@ -6,7 +6,7 @@ seo-title: Versionsinformation
 title: Versionsinformation
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 
 ---
 
@@ -57,7 +57,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
  </tbody> 
 </table>
 
-## Felkorrigeringar {#section-f5e9d54e9d2546afb97972cdb6d8a093}
+## Bug Fixes {#section-f5e9d54e9d2546afb97972cdb6d8a093}
 
 * Ett problem där sidfoten dolde innehåll längst ned på sidan har korrigerats
 
@@ -83,11 +83,11 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
  </tbody> 
 </table>
 
-## Förbättringar {#section-e9e8a6ddedde4c029b1d3d69c009cbad}
+## Improvements {#section-e9e8a6ddedde4c029b1d3d69c009cbad}
 
 * Korrigerade en potentiell säkerhetslucka som orsakas av orensad användarinmatning.
 
-## Felkorrigeringar {#section-556417ff055848c1bf037354dd43cbd0}
+## Bug Fixes {#section-556417ff055848c1bf037354dd43cbd0}
 
 * Ett problem har korrigerats där AAM DIL-händelser inte hämtades på fliken AAM
 
@@ -126,12 +126,12 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
  </tbody> 
 </table>
 
-## Förbättringar {#section-56003a12c32f4998bf1cf2a25a518592}
+## Improvements {#section-56003a12c32f4998bf1cf2a25a518592}
 
 * Förbättrad visning av fliken Nätverk så att tabellens höjd inte blir för stor och tvingar användaren att rulla lodrätt innan de kan rulla vågrätt. Tidigare visades rullningslisterna längst ned i tabellen. Eftersom tabellen kunde bli ganska stor var man tvungen att rulla alla nedåt vertikalt för att kunna se dem.
 * Länken till ObservePoint har uppdaterats från fliken Verktyg.
 
-## Felkorrigeringar {#section-d9231f5c77254d0888347e5f569a8b1d}
+## Bug Fixes {#section-d9231f5c77254d0888347e5f569a8b1d}
 
 * Ett problem där Experience Cloud-fliken inte uppdaterades har korrigerats
 
@@ -169,12 +169,12 @@ Version 0.0.803 innehåller inga kundtillvända ändringar.
  </tbody> 
 </table>
 
-## Förbättringar {#section-0e7090e3e6a645f085d4553b983ecff8}
+## Improvements {#section-0e7090e3e6a645f085d4553b983ecff8}
 
 * Namnet på Media Optimizer har ändrats till Advertising Cloud
 * Borttagna lösningar från fliken Nätverk om de inte hittas
 
-## Felkorrigeringar {#section-7c0e4cc4b00a428489bed4a0a27c9501}
+## Bug Fixes {#section-7c0e4cc4b00a428489bed4a0a27c9501}
 
 * Ett problem har korrigerats där funktionen &quot;Klicka i cell för att visa&quot; inte uppdaterades
 * Ett problem där AAM-träffar inte visades på AAM-fliken har korrigerats
@@ -219,12 +219,12 @@ Version 0.0.803 innehåller inga kundtillvända ändringar.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uppdatera hjälplänk i sidfot </p> </td> 
-   <td colname="col2"> <p>Uppdatera hjälplänken i sidfoten till <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/" format="https" scope="external"> https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/</a> </p> </td> 
+   <td colname="col2"> <p>Uppdatera hjälplänken i sidfoten till <a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-## Felkorrigeringar {#section-c292cf7dcb17463bb1928de73bd55121}
+## Bug Fixes {#section-c292cf7dcb17463bb1928de73bd55121}
 
 * Ett problem har korrigerats där märkesnumret inte rensades
 * Ett problem där en kund rapporterade tomma sammanfattningsdetaljer har korrigerats
