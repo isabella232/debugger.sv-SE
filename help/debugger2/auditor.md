@@ -4,12 +4,15 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;
 seo-description: 'null'
 title: Revisor
 translation-type: tm+mt
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+source-git-commit: 4746e8eaf2bb16f2b93960fc6e34329c73271f81
+workflow-type: tm+mt
+source-wordcount: '76'
+ht-degree: 3%
 
 ---
 
 
-# Revisor{#auditor}
+# Revisor {#auditor}
 
 >[!IMPORTANT]
 >
