@@ -6,7 +6,10 @@ seo-title: verktyg
 title: verktyg
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 translation-type: tm+mt
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+source-git-commit: 5a84797bda8c29f1e691de418c9837c76a63c17f
+workflow-type: tm+mt
+source-wordcount: '396'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +20,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 >
 >Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
-På skärmen Verktyg kan du aktivera eller inaktivera olika verktyg för den installerade lösningen. Du kan t.ex. aktivera målets konsolfelsökningssatser eller använda DTM-mellanlagringsbiblioteket. Dessa verktyg är bara tillgängliga om Target och DTM är installerade på sidan.
+På skärmen Verktyg kan du aktivera eller inaktivera olika verktyg för den installerade lösningen. Du kan till exempel aktivera felsökningsprogramsatser för Target konsol eller använda DTM Staging Library. Dessa verktyg är bara tillgängliga om Target och DTM är installerade på sidan.
 
 ![](assets/tools.jpg)
 
@@ -54,7 +57,7 @@ Du kan infoga Launch eller DTM dynamiskt på alla sidor för att testa något p�
  </tbody> 
 </table>
 
-## Målinformation {#section-31090d95f50e455692b672c26e6a2051}
+## Target Information {#section-31090d95f50e455692b672c26e6a2051}
 
 <table id="table_A71D269B49F4417599EBACA44D5CCF4F"> 
  <thead> 
@@ -65,15 +68,15 @@ Du kan infoga Launch eller DTM dynamiskt på alla sidor för att testa något p�
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Loggning av målkonsol </p> </td> 
-   <td colname="col2"> <p>Det här verktyget visar målspecifika felsökningssatser för webbläsarkonsolen, som alla börjar med <span class="codeph"> AT:</span> genom att lägga till en cookie med namnet <span class="codeph"> mboxDebug=true</span> i webbläsaren. För närvarande visas inte konsolprogramsatserna på skärmen Felsökningsloggar, men de visas i webbläsarens interna felsökningskonsol. </p> <p> Det här verktyget kräver at.js 0.9.6+. Om du använder en äldre version av at.js kan du lägga till <span class="codeph"> ?mboxDebug=true</span> frågesträngsparametern i URL:en för att aktivera konsolloggning. Om du använder mbox.js kan du lägga till parametern <span class="codeph"> ?_AT_Debug=console</span> för att aktivera konsolloggning som begränsas till Visual Experience Composer-aktiviteter. </p> </td> 
+   <td colname="col1"> <p>Loggning av Target Console </p> </td> 
+   <td colname="col2"> <p>Det här verktyget visar Target-specifika felsökningsprogramsatser för webbläsarkonsolen, som alla börjar med <span class="codeph"> AT:</span> genom att lägga till en cookie med namnet <span class="codeph"> mboxDebug=true</span> i webbläsaren. För närvarande visas inte konsolprogramsatserna på skärmen Felsökningsloggar, men de visas i webbläsarens interna felsökningskonsol. </p> <p> Det här verktyget kräver at.js 0.9.6+. Om du använder en äldre version av at.js kan du lägga till <span class="codeph"> ?mboxDebug=true</span> frågesträngsparametern i URL:en för att aktivera konsolloggning. Om du använder mbox.js kan du lägga till parametern <span class="codeph"> ?_AT_Debug=console</span> för att aktivera konsolloggning som begränsas till Visual Experience Composer-aktiviteter. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Aktivera Mbox Traces </p> </td> 
-   <td colname="col2"> <p>Det här verktyget lägger till detaljerad information i Target-svar, som kan utforskas på skärmen <span class="uicontrol"> Target&gt;Mbox Trace</span> i felsökaren. </p> <p> Du måste ha loggat in på Experience Cloud på någon av dina Chrome-flikar för att kunna aktivera det här verktyget. </p> </td> 
+   <td colname="col2"> <p>Det här verktyget lägger till detaljerad information i Target-svar, som kan utforskas på skärmen för spårning <span class="uicontrol"> i</span> Target&gt;Mbox i felsökningsprogrammet. </p> <p> Du måste vara inloggad på Experience Cloud på någon av dina Chrome-flikar för att kunna aktivera det här verktyget. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Inaktivera mål </p> </td> 
+   <td colname="col1"> <p>Inaktivera Target </p> </td> 
    <td colname="col2"> <p>Det här verktyget inaktiverar alla Target-begäranden genom att lägga till en cookie med namnet <span class="codeph"> mboxDisable=true</span> i webbläsaren. </p> <p> Det här verktyget kräver at.js 0.9.6+. Om du använder en äldre version kan du lägga till <span class="codeph"> ?mboxDisable=true </span>frågesträngsparametern i URL:en för att inaktivera kryssrutor. </p> </td> 
   </tr> 
   <tr> 
@@ -83,6 +86,6 @@ Du kan infoga Launch eller DTM dynamiskt på alla sidor för att testa något p�
  </tbody> 
 </table>
 
-I följande video förklaras hur du använder felsökningstillägget med Adobe Target.
+I följande video förklaras hur du använder Felsökning-tillägget med Adobe Target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
