@@ -1,13 +1,13 @@
 ---
-description: 'null'
+description: Om Experience Platform Auditor
 keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;dtm;target
-seo-description: 'null'
+seo-description: Om Experience Platform Auditor
 title: Revisor
 translation-type: tm+mt
-source-git-commit: 4746e8eaf2bb16f2b93960fc6e34329c73271f81
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 3%
+source-wordcount: '82'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+>Adobe Experience Cloud Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 Du kan använda Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) för att utföra en serie granskningar på din sida från Granskarskärmen.
 
