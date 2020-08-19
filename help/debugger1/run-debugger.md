@@ -1,19 +1,22 @@
 ---
-description: 'null'
+description: Löpande Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: 'null'
+seo-description: Löpande Experience Cloud Debugger
 seo-title: Sammanfattningsskärm
 title: Sammanfattningsskärm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '1035'
+ht-degree: 2%
 
 ---
 
 
 # Sammanfattningsskärm{#summary-screen}
 
-Om du vill köra Experience Cloud Debugger klickar du på tilläggsikonen i tilläggsfältet och öppnar sedan sidan som du vill granska i Chrome.
+Om du vill köra Experience Cloud Debugger klickar du på tilläggsikonen i tilläggsfältet och öppnar sedan den sida som du vill granska i Chrome.
 
 ![](assets/start-icon.jpg)
 
@@ -21,17 +24,17 @@ Skärmen Adobe Experience Cloud Debugger Summary visas.
 
 ![](assets/summary.jpg)
 
-På den här skärmen visas en miniatyrbild av sidan samt sidans URL och rubrik. Här visas även information om varje Adobe Experience Cloud-lösning. Den information som visas varierar beroende på lösning, men omfattar vanligtvis information som lösningsbiblioteket och version (till exempel&quot;AppMeasurement v2.9&quot;) och kontoidentifierare (till exempel ID för Analytics-rapportsviten, målklientkoden, partner-ID för Audience Manager osv.)
+På den här skärmen visas en miniatyrbild av sidan samt sidans URL och rubrik. Här finns också information om de olika Adobe Experience Cloud-lösningarna. Den information som visas varierar beroende på lösning, men omfattar vanligtvis information som lösningsbiblioteket och version (till exempel&quot;AppMeasurement v2.9&quot;) och kontoidentifierare (till exempel Analytics-rapportens programpaket-ID, målklientkoden, Audience Manager partner-ID osv.)
 
 Siffrorna i blått bredvid flikarna högst upp i fönstret visar antalet serveranrop som har gjorts. Du kan återställa dessa till noll genom att klicka **[!UICONTROL Clear All Requests]** på respektive flik.
 
-Följande bild visar information om Adobe Target. Observera att om du vill visa aktivitetsinformationen som visas nedan utan autentisering måste du implementera händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktivera nödvändiga [svarstoken](https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html) i målgränssnittet.
+I följande bild visas information om Adobe Target. Observera att om du vill visa aktivitetsinformationen som visas nedan utan autentisering måste du implementera händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktivera nödvändiga [svarstoken](https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html) i målgränssnittet.
 
 ![](assets/summary-target2.jpg)
 
 ## Kör en revision i revisor {#section-82bc57440406461ebf27a16855b71655}
 
-Du kan använda Adobe Auditor för att utföra en serie granskningar på din sida. Om du vill köra Granskare klickar du på **[!UICONTROL Auditor]** den översta menyn och sedan på **[!UICONTROL Audit Page Now]**. Klicka **[!UICONTROL Run Multi-Page Audit Now]** för att öppna Adobe Auvisor.
+Du kan använda Adobe Auditor för att utföra en serie granskningar på din sida. Om du vill köra Granskare klickar du på **[!UICONTROL Auditor]** den översta menyn och sedan på **[!UICONTROL Audit Page Now]**. Öppna Adobe Auditor genom att klicka **[!UICONTROL Run Multi-Page Audit Now]**.
 
 ## Information som visas i Felsökning {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
@@ -89,11 +92,11 @@ Felsökaren visar följande information för varje lösning:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Partner </p> </td> 
-   <td colname="col2"> <p>DIL-instansens <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-instance-methods.html#getpartner" format="html" scope="external"> partnernamn</a> </p> </td> 
+   <td colname="col2"> <p>Partnernamnet <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-instance-methods.html#getpartner" format="html" scope="external"></a> för instansen DIL </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Versionsnumret<a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-dil-methods.html#return-version-dil" format="html" scope="external"> för</a> DIL-instansen </p> </td> 
+   <td colname="col2"> <p>Versionsnumret<a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-dil-methods.html#return-version-dil" format="html" scope="external"> för</a> instansen DIL </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
@@ -108,7 +111,7 @@ Felsökaren visar följande information för varje lösning:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Namn </p> </td> 
-   <td colname="col2"> <p>Namnet på Adobe Launch- <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> egenskapen</a> </p> </td> 
+   <td colname="col2"> <p>Namnet på <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> egenskapen Adobe Launch</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
@@ -156,13 +159,13 @@ Felsökaren visar följande information för varje lösning:
  </tbody> 
 </table>
 
-**Adobe Experience Cloud ID Service**
+**Adobe Experience Cloud ID-tjänst**
 
 <table id="table_274CFCEFA8F34D16BB546B4669EC0209"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Experience Cloud-organisations-ID </p> </td> 
-   <td colname="col2"> <p>Ditt <a href="https://docs.adobe.com/content/help/en/id-service/using/home.html" format="https" scope="external"> organisations-ID</a> </p> </td> 
+   <td colname="col1"> <p>Experience Cloud organisation-ID </p> </td> 
+   <td colname="col2"> <p>Ditt <a href="https://docs.adobe.com/content/help/sv-SE/id-service/using/home.html" format="https" scope="external"> organisations-ID</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
