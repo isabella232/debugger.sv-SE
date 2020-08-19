@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Versionsinformation för Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
-seo-description: 'null'
+seo-description: Versionsinformation för Experience Cloud Debugger
 seo-title: Versionsinformation
 title: Versionsinformation
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
-source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '699'
+ht-degree: 6%
 
 ---
 
@@ -52,7 +55,7 @@ source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Debugger visar nu AAM-svar </p> </td> 
+   <td colname="col2"> <p>Debugger visar nu AAM svar </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -83,13 +86,13 @@ source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
  </tbody> 
 </table>
 
-## Improvements {#section-e9e8a6ddedde4c029b1d3d69c009cbad}
+## Förbättringar {#section-e9e8a6ddedde4c029b1d3d69c009cbad}
 
 * Korrigerade en potentiell säkerhetslucka som orsakas av orensad användarinmatning.
 
 ## Bug Fixes {#section-556417ff055848c1bf037354dd43cbd0}
 
-* Ett problem har korrigerats där AAM DIL-händelser inte hämtades på fliken AAM
+* Ett problem där AAM DIL-händelser inte hämtades på fliken AAM har korrigerats
 
 * Ett problem i Dynamic Insert Launch där användargränssnittet verkade mappa till en annan inbäddningskod när det inte var det har åtgärdats
 * Ett problem i Dynamic Insert Launch där en felaktig URL fortsatte att visas har åtgärdats
@@ -126,16 +129,16 @@ source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
  </tbody> 
 </table>
 
-## Improvements {#section-56003a12c32f4998bf1cf2a25a518592}
+## Förbättringar {#section-56003a12c32f4998bf1cf2a25a518592}
 
 * Förbättrad visning av fliken Nätverk så att tabellens höjd inte blir för stor och tvingar användaren att rulla lodrätt innan de kan rulla vågrätt. Tidigare visades rullningslisterna längst ned i tabellen. Eftersom tabellen kunde bli ganska stor var man tvungen att rulla alla nedåt vertikalt för att kunna se dem.
 * Länken till ObservePoint har uppdaterats från fliken Verktyg.
 
 ## Bug Fixes {#section-d9231f5c77254d0888347e5f569a8b1d}
 
-* Ett problem där Experience Cloud-fliken inte uppdaterades har korrigerats
+* Ett problem där fliken Experience Cloud inte uppdaterades har korrigerats
 
-* Korrigerade ett problem där&quot;Media Optimizer&quot; visades på raden Lösning på fliken Nätverk i stället för det aktuella&quot;Advertising Cloud&quot;-namnet
+* Ett problem där&quot;Media Optimizer&quot; visades på raden Lösning på fliken Nätverk har korrigerats, i stället för det aktuella&quot;Advertising Cloud&quot;-namnet
 * Ett problem som orsakade att felsökaren injicerade _satellit på varje sida har korrigerats
 
 ## Version 0.0.803 10 augusti 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
@@ -169,7 +172,7 @@ Version 0.0.803 innehåller inga kundtillvända ändringar.
  </tbody> 
 </table>
 
-## Improvements {#section-0e7090e3e6a645f085d4553b983ecff8}
+## Förbättringar {#section-0e7090e3e6a645f085d4553b983ecff8}
 
 * Namnet på Media Optimizer har ändrats till Advertising Cloud
 * Borttagna lösningar från fliken Nätverk om de inte hittas
@@ -177,7 +180,7 @@ Version 0.0.803 innehåller inga kundtillvända ändringar.
 ## Bug Fixes {#section-7c0e4cc4b00a428489bed4a0a27c9501}
 
 * Ett problem har korrigerats där funktionen &quot;Klicka i cell för att visa&quot; inte uppdaterades
-* Ett problem där AAM-träffar inte visades på AAM-fliken har korrigerats
+* Ett problem har korrigerats där AAM träffar inte visades på AAM
 
 ## Version 0.0.798 14 juni 2018 {#topic-3b2d44277f2f4c0295d82724c34bf467}
 
@@ -197,7 +200,7 @@ Version 0.0.803 innehåller inga kundtillvända ändringar.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Förbättrat utseende </p> </td> 
-   <td colname="col2"> <p>Teckensnittet Chrome-tillägg har uppdaterats till Adobe Clean. </p> </td> 
+   <td colname="col2"> <p>Chrome-tilläggsteckensnittet har uppdaterats till Adobe Clean. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Svep-funktion för styrplatta </p> </td> 
