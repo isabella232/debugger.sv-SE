@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger Network-skärm
 keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
-seo-description: 'null'
+seo-description: Experience Cloud Debugger Network-skärm
 seo-title: Nätverksinformation
 title: Nätverksinformation
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '228'
+ht-degree: 2%
 
 ---
 
@@ -15,19 +18,19 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+>Adobe Experience Cloud Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 Om du vill visa nätverksinformation klickar du på **[!UICONTROL Network]**.
 
-På nätverksskärmen samlas alla samtal om Adobe Experience Cloud-lösningar som gjorts på sidan och visas i ordning från vänster till höger. Standardparametrar etiketteras automatiskt med egna namn och ordnas för att gruppera gemensamma parametrar i samma roll.
+På nätverksskärmen samlas alla Adobe Experience Cloud-lösningsanrop som görs på sidan och visas i ordning från vänster till höger. Standardparametrar etiketteras automatiskt med egna namn och ordnas för att gruppera gemensamma parametrar i samma roll.
 
 ![](assets/network.jpg)
 
-Den här skärmen är användbar när du vill jämföra nyckelvärdepar i olika träffar. Ni kan bekräfta att de parametrar som används för integreringar, som Experience Cloud Visitor ID eller Kompletterande data ID, är konsekventa för alla integreringar.
+Den här skärmen är användbar när du vill jämföra nyckelvärdepar i olika träffar. Du kan bekräfta att de parametrar som används för integreringar, till exempel Experience Cloud Visitor-ID eller Kompletterande data-ID, är konsekventa för alla integreringar.
 
 >[!NOTE]
 >
->I nuläget visas inte alla parametrar som skickas i lösningsanrop (till exempel kontextvariabler för Analytics, anpassade målparametrar eller kundens ID:n för Experience Cloud ID-tjänst) på nätverksskärmen.
+>I nuläget visas inte alla parametrar som skickas i lösningsanrop (till exempel kontextvariabler för Analytics, anpassade målparametrar eller kundID:n för Experience Cloud ID-tjänsten) på nätverksskärmen.
 
 Om du vill ändra information per lösning väljer du den lösning du vill visa i listan i det vänstra navigeringsfältet. Följande exempel filtreras så att endast Analytics visas:
 
