@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Installationsanvisningar för Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;install
-seo-description: 'null'
+seo-description: Installationsanvisningar för Experience Cloud Debugger
 seo-title: Installera Experience Cloud Debugger
 title: Installera Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '60'
+ht-degree: 0%
 
 ---
 
