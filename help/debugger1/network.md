@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger Network Information screen
 keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
-seo-description: 'null'
+seo-description: Experience Cloud Debugger Network Information screen
 seo-title: Nätverksinformation
 title: Nätverksinformation
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '217'
+ht-degree: 2%
 
 ---
 
@@ -15,15 +18,15 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 Om du vill visa nätverksinformation klickar du på **[!UICONTROL Network]**.
 
-På nätverksskärmen samlas alla samtal om Adobe Experience Cloud-lösningar som gjorts på sidan och visas i ordning från vänster till höger. Standardparametrar etiketteras automatiskt med egna namn och ordnas för att gruppera gemensamma parametrar i samma roll.
+På nätverksskärmen samlas alla Adobe Experience Cloud-lösningsanrop som görs på sidan och visas i ordning från vänster till höger. Standardparametrar etiketteras automatiskt med egna namn och ordnas för att gruppera gemensamma parametrar i samma roll.
 
 >[!TIP]
 >
->Den här skärmen är användbar för att bekräfta att de parametrar som används för integreringar, som Experience Cloud Visitor ID eller Kompletterande data-ID, är konsekventa för alla integreringar.
+>Den här skärmen är användbar för att bekräfta att de parametrar som används för integreringar, t.ex. Experience Cloud Visitor-ID eller Kompletterande data-ID, är konsekventa för alla integreringar.
 
 >[!NOTE]
 >
->I nuläget visas inte alla parametrar som skickas i lösningsanrop (till exempel kontextvariabler för Analytics, anpassade målparametrar eller kundens ID:n för Experience Cloud ID-tjänst) på nätverksskärmen.
+>I nuläget visas inte alla parametrar som skickas i lösningsanrop (till exempel kontextvariabler för Analytics, anpassade målparametrar eller kundID:n för Experience Cloud ID-tjänsten) på nätverksskärmen.
 
 Om du vill visa all information väljer du **[!UICONTROL All]**.
 
