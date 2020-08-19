@@ -1,17 +1,20 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger Tools screen
 keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
-seo-description: 'null'
-seo-title: verktyg
-title: verktyg
+seo-description: Experience Cloud Debugger Tools screen
+seo-title: Verktyg
+title: Verktyg
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 translation-type: tm+mt
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '388'
+ht-degree: 1%
 
 ---
 
 
-# verktyg{#tools}
+# Verktyg{#tools}
 
 På skärmen Verktyg kan du aktivera eller inaktivera olika verktyg för den installerade lösningen. Du kan t.ex. aktivera målets konsolfelsökningssatser eller använda DTM-mellanlagringsbiblioteket. Dessa verktyg är bara tillgängliga om Target och DTM är installerade på sidan.
 
@@ -79,6 +82,6 @@ Du kan infoga Launch eller DTM dynamiskt på alla sidor för att testa något p�
  </tbody> 
 </table>
 
-I följande video förklaras hur du använder felsökningstillägget med Adobe Target.
+I följande video förklaras hur du använder Felsökning-tillägget med Adobe Target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
