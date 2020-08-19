@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Installera Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;install
-seo-description: 'null'
+seo-description: Installera Experience Cloud Debugger
 seo-title: Installera Experience Cloud Debugger
 title: Installera Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '98'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+>Adobe Experience Cloud Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 Hämta och installera Adobe Experience Platform Debugger.
 
