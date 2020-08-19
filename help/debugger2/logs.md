@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger Logs screen
 keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: 'null'
+seo-description: Experience Cloud Debugger Logs screen
 seo-title: Loggar
 title: Loggar
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 translation-type: tm+mt
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+>Adobe Experience Cloud Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 Loggskärmen innehåller information om DTM-, Launch- och AEP Web SDK-implementeringar. Verktyget Konsolfelsökning för DTM behöver inte aktiveras för att den här informationen ska kunna visas. Du kan filtrera efter lösningar som implementerats via tillhörande verktyg.
 
@@ -23,18 +26,18 @@ Loggskärmen innehåller information om DTM-, Launch- och AEP Web SDK-implemente
 
 På loggskärmen visas information i fyra kolumner:
 
-**[!UICONTROL Solutions]:**Visar ikoner för Experience Cloud-lösningen som påverkas av det loggade objektet. Håll pekaren över ikonen om du vill se en textbeskrivning.
+**[!UICONTROL Solutions]:** Visar ikoner för den Experience Cloud-lösning som påverkas av det loggade objektet. Håll pekaren över ikonen om du vill se en textbeskrivning.
 
-**[!UICONTROL Occurred at]:**Visar när det loggade problemet uppstod under sessionen.
+**[!UICONTROL Occurred at]:** Visar när det loggade problemet uppstod under sessionen.
 
-**[!UICONTROL Log level]:**Visar problemets allvarlighetsgrad. Allvarlighetsgraden är en av följande nivåer:
+**[!UICONTROL Log level]:** Visar problemets allvarlighetsgrad. Allvarlighetsgraden är en av följande nivåer:
 
 * Logg
 * Info
 * Varningar
 * Fel
 
-**[!UICONTROL Log message]:**Beskriver problemet.
+**[!UICONTROL Log message]:** Beskriver problemet.
 
 Vissa loggmeddelanden innehåller alternativet Visa kod. Klicka **[!UICONTROL Show Code]** för att visa villkorskoden som avgör om en regel ska utlösas.
 
