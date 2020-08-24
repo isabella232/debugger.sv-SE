@@ -5,9 +5,9 @@ seo-description: Konfigurera Experience Cloud Debugger
 seo-title: Konfigurera Experience Cloud Debugger
 title: Konfigurera Experience Cloud Debugger
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Du kan konfigurera vissa aspekter av hur Felsökning ser ut och fungerar.
 
 ## Ljust eller mörkt läge
 
-När Felsökning har öppnats kan du välja det utseende du vill ha genom att gå till ****och välja antingen** Mörkt läge **(standard) eller** Ljust läge **.
+När Felsökning har öppnats kan du välja det utseende du vill ha genom att gå till **[!UICONTROL Settings]** och välja antingen **Mörkt läge** (standard) eller **Ljust läge**.
 
 ## Återställ
 
-Klicka på **[!UI KONTROLL Återställ alla data och inställningar]** för att återgå till att rensa alla data och återgå till standardinställningarna.
+Klicka för **[!UICONTROL Reset all Data and Settings]** att återgå till att rensa alla data och återgå till standardinställningarna.
 
 ## Lås felsökning på en sida
 
