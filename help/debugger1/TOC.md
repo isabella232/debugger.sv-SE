@@ -1,11 +1,15 @@
 ---
 cloud: experience-cloud
 product: experience cloud
-sub-product: experience cloud debugger
+sub-product: Experience cloud debugger
 audience: end-user
-user-guide-title: Experience Cloud Debugger Help
+user-guide-title: Hjälp om Experience Cloud Debugger
+breadcrumb-title: Debugger Guide
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: dc7588274f4917ee8c7c35653f9a177fdd9f07f2
+workflow-type: tm+mt
+source-wordcount: '30'
+ht-degree: 13%
 
 ---
 
@@ -17,6 +21,6 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 + [Installera Experience Cloud Debugger](install-debugger.md)
 + [Sammanfattningsskärm](run-debugger.md)
 + [Nätverksinformation](network.md)
-+ [verktyg](tools.md)
++ [Verktyg](tools.md)
 + [Loggar](logs.md)
 + [Lösningsflikar](solutions.md)
