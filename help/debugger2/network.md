@@ -1,14 +1,14 @@
 ---
-description: Experience Cloud Debugger Network-skärm
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
-seo-description: Experience Cloud Debugger Network-skärm
+description: Experience Platform Debugger Network screen
+keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+seo-description: Experience Platform Debugger Network screen
 seo-title: Nätverksinformation
 title: Nätverksinformation
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '227'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+>Adobe Experience Platform Debugger är för närvarande i betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 Om du vill visa nätverksinformation klickar du på **[!UICONTROL Network]**.
 
