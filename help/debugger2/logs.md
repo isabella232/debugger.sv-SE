@@ -1,14 +1,14 @@
 ---
-description: Experience Cloud Debugger Logs screen
-keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: Experience Cloud Debugger Logs screen
+description: Experience Platform Debugger Logs screen
+keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+seo-description: Experience Platform Debugger Logs screen
 seo-title: Loggar
 title: Loggar
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+>Adobe Experience Platform Debugger är för närvarande i betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 Loggskärmen innehåller information om DTM-, Launch- och AEP Web SDK-implementeringar. Verktyget Konsolfelsökning för DTM behöver inte aktiveras för att den här informationen ska kunna visas. Du kan filtrera efter lösningar som implementerats via tillhörande verktyg.
 
