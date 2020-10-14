@@ -1,13 +1,13 @@
 ---
-description: Experience Cloud Debugger-händelsemönster
-keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Experience Cloud Debugger-händelsemönster
+description: Skärm för felsökningshändelser i Experience Platform
+keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+seo-description: Skärm för felsökningshändelser i Experience Platform
 seo-title: Händelser
 title: Händelser
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+>Adobe Experience Platform Debugger är för närvarande i betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 På skärmen Händelser visas en grafisk vy över händelser som inträffar, som visas på en tidslinje.
 
 ![](assets/events.jpg)
 
-För varje händelse visas en ikon för den aktuella Experience Cloud-lösningen på tidslinjen. Ikoner visar även ändringar i datalagret (om det är aktiverat). Håll pekaren över en ikon om du vill se en sammanfattning av händelsen. Klicka på händelsen för mer information. Du kan Skift-klicka eller Ctrl-klicka om du vill visa flera händelser.
+För varje händelse visas en ikon för den tillämpliga lösningen på tidslinjen. Ikoner visar även ändringar i datalagret (om det är aktiverat). Håll pekaren över en ikon om du vill se en sammanfattning av händelsen. Klicka på händelsen för mer information. Du kan Skift-klicka eller Ctrl-klicka om du vill visa flera händelser.
 
 ![](assets/events-details.jpg)
 
