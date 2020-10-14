@@ -1,14 +1,14 @@
 ---
-description: Installera Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;install
-seo-description: Installera Experience Cloud Debugger
-seo-title: Installera Experience Cloud Debugger
-title: Installera Experience Cloud Debugger
+description: Installera felsökaren för Experience Platform
+keywords: debugger;experience Platform Debugger extension;chrome;extension;install
+seo-description: Installera felsökaren för Experience Platform
+seo-title: Installera Experience Platform Debugger
+title: Installera Experience Platform Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 är en betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+>Adobe Experience Platform Debugger är för närvarande i betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
 Hämta och installera Adobe Experience Platform Debugger.
 
@@ -29,5 +29,5 @@ När du har installerat Chrome-tillägget eller Firefox-tillägget läggs en iko
 
 ![](assets/start-icon.jpg)
 
-Klicka på ikonen för att starta Felsökning.
+Klicka på ikonen för att starta Felsökning för Experience Platform.
 
