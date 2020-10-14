@@ -1,27 +1,27 @@
 ---
-cloud: experience-cloud
-product: experience cloud
-sub-product: experience cloud debugger 2.0
+cloud: experience-platform
+product: experience platform
+sub-product: 'Experience platform debugger '
 audience: end-user
-user-guide-title: Hjälp om Experience Cloud Debugger 2.0
-user-guide-description: Examine your web pages for problems with your Experience Platform implementations.
-breadcrumb-title: Debugger 2.0 Guide
+user-guide-title: Hjälp om felsökning för Experience Platform
+user-guide-description: Kontrollera om dina webbsidor innehåller problem med implementeringarna av Experience Platform.
+breadcrumb-title: Felsökningsguide för plattform
 index: true
 translation-type: tm+mt
-source-git-commit: 89781a342e467513b244240c171fc5bad040ca35
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 12%
+source-wordcount: '47'
+ht-degree: 8%
 
 ---
 
 
-# Hjälp om Experience Cloud Debugger 2.0 {#using-v2}
+# Hjälp om felsökning för Experience Platform {#using-v2}
 
-+ [Adobe Experience Cloud Debugger Extension](experience-cloud-debugger.md)
++ [Adobe Experience Platform Debugger Extension](experience-cloud-debugger.md)
 + [Versionsinformation](release-notes.md)
-+ [Installera Experience Cloud Debugger](install-debugger.md)
-+ [Konfigurera felsökning](configure-debugger.md)
++ [Installera Experience Platform Debugger](install-debugger.md)
++ [Konfigurera felsökning för Experience Platform](configure-debugger.md)
 + [Sammanfattningsskärm](summary.md)
 + [Lösningar](solutions.md)
 + [Loggar](logs.md)
