@@ -6,10 +6,10 @@ seo-title: Versionsinformation
 title: Versionsinformation
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 6%
+source-wordcount: '723'
+ht-degree: 5%
 
 ---
 
@@ -50,12 +50,12 @@ ht-degree: 6%
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Granskningstester </p> </td> 
-   <td colname="col2"> <p> Lagt till <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> granskartester</a> i felsökaren </p> </td> 
+   <td colname="col1"> <p>Adobe Experience Platform Auditor-tester </p> </td> 
+   <td colname="col2"> <p> Lagt till <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> plattformsgranskningstester</a> i Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Debugger visar nu AAM svar </p> </td> 
+   <td colname="col2"> <p>Experience Cloud Debugger visar nu AAM svar </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -64,7 +64,7 @@ ht-degree: 6%
 
 * Ett problem där sidfoten dolde innehåll längst ned på sidan har korrigerats
 
-* Felsökningssidfoten har uppdaterats
+* Experience Cloud Debugger-sidfoten har uppdaterats
 * Ett problem där inaktuell terminologi användes för Target har korrigerats
 
 ## Version 0.0.809 28 februari 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -96,7 +96,7 @@ ht-degree: 6%
 
 * Ett problem i Dynamic Insert Launch där användargränssnittet verkade mappa till en annan inbäddningskod när det inte var det har åtgärdats
 * Ett problem i Dynamic Insert Launch där en felaktig URL fortsatte att visas har åtgärdats
-* Ett problem har korrigerats där felsökaren fortsatte att ersätta inbäddningskoder även när felsökningsfönstret stängdes
+* Ett problem har korrigerats där Experience Cloud Debugger fortsatte att ersätta inbäddningskoder även när Experience Cloud Debugger-fönstret stängdes
 
 ## Version 0.0.806 10 september 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -116,7 +116,7 @@ ht-degree: 6%
   </tr> 
   <tr> 
    <td colname="col1"> <p>Infoga start dynamiskt </p> </td> 
-   <td colname="col2"> <p>På fliken Verktyg kan du dynamiskt infoga Launch på alla sidor för att testa något på en sida som inte har Launch installerat. </p> </td> 
+   <td colname="col2"> <p>På fliken Verktyg kan du infoga Adobe Experience Platform Launch dynamiskt på alla sidor för att testa något på en sida som inte har Platform Launch installerat. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Målförbättringar </p> </td> 
@@ -139,7 +139,7 @@ ht-degree: 6%
 * Ett problem där fliken Experience Cloud inte uppdaterades har korrigerats
 
 * Ett problem där&quot;Media Optimizer&quot; visades på raden Lösning på fliken Nätverk har korrigerats, i stället för det aktuella&quot;Advertising Cloud&quot;-namnet
-* Ett problem som orsakade att felsökaren injicerade _satellit på varje sida har korrigerats
+* Ett problem som gjorde att Experience Cloud Debugger injicerade _satellit på alla sidor har korrigerats
 
 ## Version 0.0.803 10 augusti 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -158,8 +158,8 @@ Version 0.0.803 innehåller inga kundtillvända ändringar.
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Granskarlänk på fliken Verktyg </p> </td> 
-   <td colname="col2"> <p>Lade till en länk till granskaren från felsökaren </p> </td> 
+   <td colname="col1"> <p>Plattformsgranskarlänk på fliken Verktyg </p> </td> 
+   <td colname="col2"> <p>En länk till plattformsgranskaren har lagts till från Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Komprimerade flikar </p> </td> 
