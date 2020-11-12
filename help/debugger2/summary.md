@@ -6,9 +6,9 @@ seo-title: Sammanfattningsskärm
 title: Sammanfattningsskärm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '957'
 ht-degree: 1%
 
 ---
@@ -80,13 +80,13 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
  </tbody> 
 </table>
 
-**Adobe Launch**
+**Adobe Experience Platform Launch**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Namn </p> </td> 
-   <td colname="col2"> <p>Namnet på <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> egenskapen Adobe Launch</a> </p> </td> 
+   <td colname="col2"> <p>Namnet på plattformens Launch- <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> egenskap</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
@@ -94,11 +94,11 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
   </tr> 
   <tr> 
    <td colname="col1"> <p>Skapad den </p> </td> 
-   <td colname="col2"> <p>Startdatum <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> för</a> biblioteket </p> </td> 
+   <td colname="col2"> <p>Plattformstartbibliotekets <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"></a> byggdatum </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Miljö </p> </td> 
-   <td colname="col2"> <p>Den <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> miljö</a> som används av Launch-biblioteket </p> </td> 
+   <td colname="col2"> <p>Den <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> miljö</a> som används av plattformens startbibliotek </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Tillägg </p> </td> 
@@ -107,13 +107,13 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
  </tbody> 
 </table>
 
-**Adobe Web SDK**
+**Adobe Experience Platform Web SDK**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Biblioteksversion </p> </td> 
-   <td colname="col2"> <p>Numret på AEB Web SDK- <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">biblioteksversionen</a> </p> </td> 
+   <td colname="col2"> <p>Numret på Adobe Experience Platform Web SDK- <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">biblioteksversionen</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Namnutrymme</p> </td> 
@@ -121,7 +121,7 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
   </tr> 
   <tr> 
    <td colname="col1"> <p>Egenskaps-ID </p> </td> 
-   <td colname="col2"> <p>Namnet på Launch-egenskapen som anges i tillägget </p> </td> 
+   <td colname="col2"> <p>Namnet på plattformens startegenskap som anges i tillägget </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Edge Domain </p> </td> 
