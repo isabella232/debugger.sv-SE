@@ -6,10 +6,10 @@ seo-title: 'Flikar för lösningar i Adobe Experience Platform Debugger '
 title: Lösningsflikar
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 7%
+source-wordcount: '280'
+ht-degree: 8%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 7%
 
 Klicka på en lösning för att se resultaten för specifika Adobe Experience Cloud-lösningar.
 
-## AEP Web SDK {#aep}
+## Adobe Experience Platform Web SDK {#aep}
 
-Skärmen AEP Web SDK visar information om Adobe Experience Platform Web SDK. Klicka **[!UICONTROL Configure]** för att växla mellan att aktivera och inaktivera konsolloggning.
+Skärmen Adobe Experience Platform Web SDK visar information om Adobe Experience Platform Web SDK. Klicka **[!UICONTROL Configure]** för att växla mellan att aktivera och inaktivera konsolloggning.
 
 ## Analytics{#section-f71dfcc22bb44c86bec328491606a482} 
 
@@ -40,9 +40,9 @@ Använd målskärmen för att visa [Target](https://docs.adobe.com/content/help/
 
 Använd fliken [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html) för att visa information om [händelser](https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html). Klicka på organisationen för att expandera den och visa informationen.
 
-## Starta {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
+## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Använd startssektionen för att visa startbegäranden. Du kan också klicka **[!UICONTROL Configuration]** för att konfigurera [inbäddningskoder](https://docs.adobe.com/content/help/en/launch/using/reference/upgrade/link-dtm-embed-code.html). Du kan redigera, ersätta eller lägga till fler inbäddningskoder i Experience Platform Debugger. Om du loggar in kan du välja en alternativ egenskap med listrutorna.
+Använd avsnittet Adobe Experience Platform Launch för att visa begäranden om plattformsinstart. Du kan också klicka **[!UICONTROL Configuration]** för att konfigurera [inbäddningskoder](https://docs.adobe.com/content/help/en/launch/using/reference/upgrade/link-dtm-embed-code.html). Du kan redigera, ersätta eller lägga till fler inbäddningskoder i Experience Platform Debugger. Om du loggar in kan du välja en alternativ egenskap med listrutorna.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
