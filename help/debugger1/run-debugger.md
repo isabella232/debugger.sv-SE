@@ -6,9 +6,9 @@ seo-title: Sammanfattningsskärm
 title: Sammanfattningsskärm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1047'
 ht-degree: 2%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 2%
 
 # Sammanfattningsskärm{#summary-screen}
 
-Om du vill köra Experience Cloud Debugger klickar du på tilläggsikonen i tilläggsfältet och öppnar sedan den sida som du vill granska i Chrome.
+Om du vill köra Adobe Experience Cloud Debugger klickar du på tilläggsikonen i tilläggsfältet och öppnar sedan sidan som du vill granska i Chrome.
 
 ![](assets/start-icon.jpg)
 
-Skärmen Adobe Experience Cloud Debugger Summary visas.
+Skärmen Sammanfattning för Experience Cloud Debugger visas.
 
 ![](assets/summary.jpg)
 
-På den här skärmen visas en miniatyrbild av sidan samt sidans URL och rubrik. Här finns också information om de olika Adobe Experience Cloud-lösningarna. Den information som visas varierar beroende på lösning, men omfattar vanligtvis information som lösningsbiblioteket och version (till exempel&quot;AppMeasurement v2.9&quot;) och kontoidentifierare (till exempel Analytics-rapportens programpaket-ID, målklientkoden, Audience Manager partner-ID osv.)
+På den här skärmen visas en miniatyrbild av sidan samt sidans URL och rubrik. Här finns också information om de olika Adobe Experience Cloud-lösningarna. Den information som visas varierar beroende på lösning, men innehåller vanligtvis information som lösningsbiblioteket och version (till exempel&quot;AppMeasurement v2.9&quot;) och kontoidentifierare (till exempel Analytics-rapportens programpaket-ID, målklientkoden, Audience Manager partner-ID osv.)
 
 Siffrorna i blått bredvid flikarna högst upp i fönstret visar antalet serveranrop som har gjorts. Du kan återställa dessa till noll genom att klicka **[!UICONTROL Clear All Requests]** på respektive flik.
 
@@ -32,13 +32,13 @@ I följande bild visas information om Adobe Target. Observera att om du vill vis
 
 ![](assets/summary-target2.jpg)
 
-## Kör en revision i revisor {#section-82bc57440406461ebf27a16855b71655}
+## Kör en granskning i Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Du kan använda Adobe Auditor för att utföra en serie granskningar på din sida. Om du vill köra Granskare klickar du på **[!UICONTROL Auditor]** den översta menyn och sedan på **[!UICONTROL Audit Page Now]**. Öppna Adobe Auditor genom att klicka **[!UICONTROL Run Multi-Page Audit Now]**.
+Du kan använda verktyget Spela upp granskare för att köra en serie granskningar på sidan. Om du vill köra plattformsgranskaren klickar du på **[!UICONTROL Auditor]** den översta menyn och sedan på **[!UICONTROL Audit Page Now]**. Klicka **[!UICONTROL Run Multi-Page Audit Now]** för att öppna plattformsgranskaren.
 
-## Information som visas i Felsökning {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Information som visas i Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
-Felsökaren visar följande information för varje lösning:
+Experience Cloud Debugger visar följande information för varje lösning:
 
 **Sidinformation**
 
@@ -105,13 +105,13 @@ Felsökaren visar följande information för varje lösning:
  </tbody> 
 </table>
 
-**Adobe Launch**
+**Adobe Experience Platform Launch**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Namn </p> </td> 
-   <td colname="col2"> <p>Namnet på <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> egenskapen Adobe Launch</a> </p> </td> 
+   <td colname="col2"> <p>Namnet på plattformens Launch- <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> egenskap</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
@@ -119,15 +119,15 @@ Felsökaren visar följande information för varje lösning:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Skapad den </p> </td> 
-   <td colname="col2"> <p>Startdatum <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> för</a> biblioteket </p> </td> 
+   <td colname="col2"> <p>Plattformstartbibliotekets <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"></a> byggdatum </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Miljö </p> </td> 
-   <td colname="col2"> <p>Den <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> miljö</a> som används av Launch-biblioteket </p> </td> 
+   <td colname="col2"> <p>Den <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> miljö</a> som används av plattformens startbibliotek </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Skriptkatalog </p> </td> 
-   <td colname="col2"> <p>Katalogen där Launch-skriptet lagras </p> </td> 
+   <td colname="col2"> <p>Katalogen där Platform Launch-skriptet lagras </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ Felsökaren visar följande information för varje lösning:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Skapad den </p> </td> 
-   <td colname="col2"> <p>Startdatum <a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external"> för</a> biblioteket </p> </td> 
+   <td colname="col2"> <p>Plattformstartbibliotekets <a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external"></a> byggdatum </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Miljö </p> </td> 
