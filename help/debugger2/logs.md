@@ -6,9 +6,9 @@ seo-title: Loggar
 title: Loggar
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '157'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 >
 >Adobe Experience Platform Debugger är för närvarande i betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
-Loggskärmen innehåller information om DTM-, Launch- och AEP Web SDK-implementeringar. Verktyget Konsolfelsökning för DTM behöver inte aktiveras för att den här informationen ska kunna visas. Du kan filtrera efter lösningar som implementerats via tillhörande verktyg.
+På loggskärmen finns information om implementeringar av DTM, Adobe Experience Platform Launch och Adobe Experience Platform Web SDK. Verktyget Konsolfelsökning för DTM behöver inte aktiveras för att den här informationen ska kunna visas. Du kan filtrera efter lösningar som implementerats via tillhörande verktyg.
 
 ![](assets/logs.jpg)
 
