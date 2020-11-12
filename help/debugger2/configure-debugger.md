@@ -5,9 +5,9 @@ seo-description: Konfigurera felsökaren för Experience Platform
 seo-title: Konfigurera felsökning för Experience Platform
 title: Konfigurera felsökning för Experience Platform
 translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Du kan konfigurera vissa aspekter av hur Experience Platform Debugger ser ut och
 
 ## Ljust eller mörkt läge
 
-När felsökaren för Experience Platform har öppnats kan du välja det utseende du vill ha genom att gå till **[!UICONTROL Settings]** och välja antingen **Mörkt läge** (standard) eller **Ljust läge**.
+När plattformsfelsökaren har öppnats kan du välja det utseende du vill ha genom att gå till **[!UICONTROL Settings]** och välja antingen **Mörkt läge** (standard) eller **Ljust läge**.
 
 ## Återställ
 
@@ -33,7 +33,7 @@ Klicka för **[!UICONTROL Reset all Data and Settings]** att återgå till att r
 
 ## Lås felsökaren för Experience Platform på en sida
 
-När du ändrar sidor på webbplatsen uppdateras felsökningsfönstret i Experience Platform så att information om sidan visas. Namnet på den sida som du är ansluten till visas längst ned på skärmen. Om du vill att Experience Platform Debugger ska vara låst på en sida klickar du **[!UICONTROL Lock]** i det nedre högra hörnet av felsökningsfönstret i Experience Platform.
+När du ändrar sidor på webbplatsen uppdateras felsökningsfönstret i Experience Platform så att information om sidan visas. Namnet på den sida som du är ansluten till visas längst ned på skärmen. Om du vill att Experience Platform Debugger ska vara låst på en sida klickar du **[!UICONTROL Lock]** i det nedre högra hörnet av fönstret för plattformsfelsökning.
 
 ![](assets/lock.jpg)
 
