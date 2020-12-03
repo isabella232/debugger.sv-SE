@@ -9,7 +9,7 @@ translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
 source-wordcount: '957'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -107,7 +107,7 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
  </tbody> 
 </table>
 
-**Adobe Experience Platform Web SDK**
+**Webb-SDK för Adobe Experience Platform**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
