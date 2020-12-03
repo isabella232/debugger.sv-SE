@@ -16,7 +16,7 @@ ht-degree: 4%
 
 # Loggar{#logs}
 
-Loggskärmen innehåller information om DTM-implementeringar. Verktyget Konsolfelsökning för DTM behöver inte aktiveras för att den här informationen ska kunna visas. Du kan filtrera efter lösningar som implementerats via tillhörande DTM-verktyg. Du kan välja vilken av följande allvarlighetsnivåer för problem som visas på skärmen:
+På loggskärmen visas information om DTM-implementeringar. Verktyget Konsolfelsökning för DTM behöver inte aktiveras för att den här informationen ska kunna visas. Du kan filtrera efter lösningar som implementerats via tillhörande DTM-verktyg. Du kan välja vilken av följande allvarlighetsnivåer för problem som visas på skärmen:
 
 * Logg
 * Info
