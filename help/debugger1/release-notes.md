@@ -1,6 +1,6 @@
 ---
 description: Versionsinformation för Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
+keywords: felsökning;upplev felsökningstillägg i molnet;kroma;tillägg;versionsinformation
 seo-description: Versionsinformation för Experience Cloud Debugger
 seo-title: Versionsinformation
 title: Versionsinformation
@@ -8,7 +8,7 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '732'
 ht-degree: 5%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 5%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Träff-data efter bearbetning </p> </td> 
-   <td colname="col2"> <p> Lagt till möjligheten att <a href="solutions.md#section-f71dfcc22bb44c86bec328491606a482" format="dita" scope="local"> visa värden i analysträffar efter att bearbetningsreglerna har körts</a>. </p> </td> 
+   <td colname="col2"> <p> Lagt till möjligheten att visa <a href="solutions.md#section-f71dfcc22bb44c86bec328491606a482" format="dita" scope="local">-värden i analysträffar efter att bearbetningsreglerna har körts</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -51,7 +51,7 @@ ht-degree: 5%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Adobe Experience Platform Auditor-tester </p> </td> 
-   <td colname="col2"> <p> Lagt till <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> plattformsgranskningstester</a> i Experience Cloud Debugger </p> </td> 
+   <td colname="col2"> <p> <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">-plattformsgranskningstester</a> har lagts till i Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
@@ -60,14 +60,14 @@ ht-degree: 5%
  </tbody> 
 </table>
 
-## Bug Fixes {#section-f5e9d54e9d2546afb97972cdb6d8a093}
+## Felkorrigeringar {#section-f5e9d54e9d2546afb97972cdb6d8a093}
 
 * Ett problem där sidfoten dolde innehåll längst ned på sidan har korrigerats
 
 * Experience Cloud Debugger-sidfoten har uppdaterats
 * Ett problem där inaktuell terminologi användes för Target har korrigerats
 
-## Version 0.0.809 28 februari 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
+## Version 0.0.809, 28 februari 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
 
 ## Nya funktioner {#section-14036b9f2c0144fdac5e292ea42ce564}
 
@@ -90,7 +90,7 @@ ht-degree: 5%
 
 * Korrigerade en potentiell säkerhetslucka som orsakas av orensad användarinmatning.
 
-## Bug Fixes {#section-556417ff055848c1bf037354dd43cbd0}
+## Felkorrigeringar {#section-556417ff055848c1bf037354dd43cbd0}
 
 * Ett problem där AAM DIL-händelser inte hämtades på fliken AAM har korrigerats
 
@@ -116,7 +116,7 @@ ht-degree: 5%
   </tr> 
   <tr> 
    <td colname="col1"> <p>Infoga start dynamiskt </p> </td> 
-   <td colname="col2"> <p>På fliken Verktyg kan du infoga Adobe Experience Platform Launch dynamiskt på alla sidor för att testa något på en sida som inte har Platform Launch installerat. </p> </td> 
+   <td colname="col2"> <p>På fliken Verktyg kan du infoga Adobe Experience Platform Launch dynamiskt på alla sidor för att testa något på en sida som inte har någon Platform launch installerad. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Målförbättringar </p> </td> 
@@ -134,7 +134,7 @@ ht-degree: 5%
 * Förbättrad visning av fliken Nätverk så att tabellens höjd inte blir för stor och tvingar användaren att rulla lodrätt innan de kan rulla vågrätt. Tidigare visades rullningslisterna längst ned i tabellen. Eftersom tabellen kunde bli ganska stor var man tvungen att rulla alla nedåt vertikalt för att kunna se dem.
 * Länken till ObservePoint har uppdaterats från fliken Verktyg.
 
-## Bug Fixes {#section-d9231f5c77254d0888347e5f569a8b1d}
+## Felkorrigeringar {#section-d9231f5c77254d0888347e5f569a8b1d}
 
 * Ett problem där fliken Experience Cloud inte uppdaterades har korrigerats
 
@@ -177,7 +177,7 @@ Version 0.0.803 innehåller inga kundtillvända ändringar.
 * Namnet på Media Optimizer har ändrats till Advertising Cloud
 * Borttagna lösningar från fliken Nätverk om de inte hittas
 
-## Bug Fixes {#section-7c0e4cc4b00a428489bed4a0a27c9501}
+## Felkorrigeringar {#section-7c0e4cc4b00a428489bed4a0a27c9501}
 
 * Ett problem har korrigerats där funktionen &quot;Klicka i cell för att visa&quot; inte uppdaterades
 * Ett problem har korrigerats där AAM träffar inte visades på AAM
@@ -222,17 +222,17 @@ Version 0.0.803 innehåller inga kundtillvända ändringar.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uppdatera hjälplänk i sidfot </p> </td> 
-   <td colname="col2"> <p>Uppdatera hjälplänken i sidfoten till <a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
+   <td colname="col2"> <p>Uppdatera hjälplänken i sidfoten till https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html<a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html" format="https" scope="external"></a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-## Bug Fixes {#section-c292cf7dcb17463bb1928de73bd55121}
+## Felkorrigeringar {#section-c292cf7dcb17463bb1928de73bd55121}
 
 * Ett problem har korrigerats där märkesnumret inte rensades
 * Ett problem där en kund rapporterade tomma sammanfattningsdetaljer har korrigerats
 
-## Version 0.0.797 25 maj 2018 {#topic-51490f4f42aa40eb879663fad9d62916}
+## Version 0.0.797, 25 maj 2018 {#topic-51490f4f42aa40eb879663fad9d62916}
 
 ## Nya funktioner {#section-bbf8ff7e000e4b5592d348e0870471f6}
 
