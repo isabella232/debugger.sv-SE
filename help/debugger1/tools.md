@@ -1,6 +1,6 @@
 ---
 description: Experience Cloud Debugger Tools screen
-keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
+keywords: felsökare;upplev felsökningstillägg i molnet;tillägg;verktyg;dtm;target
 seo-description: Experience Cloud Debugger Tools screen
 seo-title: Verktyg
 title: Verktyg
@@ -8,7 +8,7 @@ uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '402'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ På skärmen Verktyg kan du aktivera eller inaktivera olika verktyg för den ins
 
 ![](assets/tools.jpg)
 
-Du kan infoga Adobe Experience Platform Launch eller DTM dynamiskt på alla sidor för att testa något på en sida som inte har Platform Launch eller DTM installerat. Klicka på **[!UICONTROL Embed Code]** ikonen, skriv [inbäddningskoden](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) och klicka på **[!UICONTROL Save]**.
+Du kan infoga Adobe Experience Platform Launch eller DTM dynamiskt på alla sidor för att testa något på en sida som inte har någon Platform launch eller DTM installerad. Klicka på ikonen **[!UICONTROL Embed Code]**, skriv din [inbäddningskod](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) och klicka på **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -65,7 +65,7 @@ Du kan infoga Adobe Experience Platform Launch eller DTM dynamiskt på alla sido
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Loggning av målkonsol </p> </td> 
-   <td colname="col2"> <p>Det här verktyget visar målspecifika felsökningssatser för webbläsarkonsolen, som alla börjar med <span class="codeph"> AT:</span> genom att lägga till en cookie med namnet <span class="codeph"> mboxDebug=true</span> i webbläsaren. För närvarande visas inte konsolprogramsatserna på skärmen Felsökningsloggar, men de visas i webbläsarens interna felsökningskonsol. </p> <p> Det här verktyget kräver at.js 0.9.6+. Om du använder en äldre version av at.js kan du lägga till <span class="codeph"> ?mboxDebug=true</span> frågesträngsparametern i URL:en för att aktivera konsolloggning. Om du använder mbox.js kan du lägga till parametern <span class="codeph"> ?_AT_Debug=console</span> för att aktivera konsolloggning som begränsas till Visual Experience Composer-aktiviteter. </p> </td> 
+   <td colname="col2"> <p>Det här verktyget visar målspecifika felsökningssatser för webbläsarkonsolen, som alla börjar med prefixet <span class="codeph"> AT:</span> genom att lägga till en cookie med namnet <span class="codeph"> mboxDebug=true</span> i webbläsaren. För närvarande visas inte konsolprogramsatserna på skärmen Felsökningsloggar, men de visas i webbläsarens interna felsökningskonsol. </p> <p> Det här verktyget kräver at.js 0.9.6+. Om du använder en äldre version av at.js kan du lägga till frågesträngsparametern <span class="codeph"> ?mboxDebug=true</span> till din URL för att aktivera konsolloggning. Om du använder mbox.js kan du lägga till parametern <span class="codeph"> ?_AT_Debug=console</span> för att aktivera konsolloggning begränsad till Visual Experience Composer-aktiviteter. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Aktivera Mbox Traces </p> </td> 
