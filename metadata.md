@@ -1,6 +1,6 @@
 ---
-cloud: experience-platform
-type: documentation
+cloud: Experience Platform
+type: dokumentation
 solution-title: Läs mer och support
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-image: help/assets/experience-p-logo-24.png
@@ -11,9 +11,9 @@ tutorials-url: https://helpx.adobe.com/analytics/how-to/adobe-launch-publishing-
 git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.sv-SE
 index: true
 translation-type: tm+mt
-source-git-commit: 24d9c114cde4ffd5cc7c64b6a66f778d3ce6f7d0
+source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 83%
 
 ---
