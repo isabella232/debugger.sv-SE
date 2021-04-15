@@ -1,6 +1,6 @@
 ---
 cloud: Experience Platform
-type: dokumentation
+type: Documentation
 solution-title: Läs mer och support
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-image: help/assets/experience-p-logo-24.png
@@ -11,9 +11,9 @@ tutorials-url: https://helpx.adobe.com/analytics/how-to/adobe-launch-publishing-
 git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.sv-SE
 index: true
 translation-type: tm+mt
-source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
+source-git-commit: c90784acea22a3c39ff13bffcd280d5fb2c70e88
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 83%
 
 ---
@@ -25,10 +25,10 @@ Filen metadata.md innehåller metadata på arkivnivå som skickas till användar
 
 | metadata | vad gör den |
 |--- |--- |
-| lösning-titel | Används i artikelrubriken som en länk |
-| lösning-hubb-url | Öppnar den centrala helpx-sidan |
-| lösning-ikon | Visar lösningsikonen bredvid lösningstiteln Inte implementerat ännu |
-| komma-igång-url | Länk till startsidan i helpx |
-| självstudiekurser-url | Länk till videosjälvstudiekurser – antingen helpx-självstudiekurser eller KT-självstudiekurser |
-| mini-toc-nivåer | Anger antalet rubriknivåer som visas i det högra fältet. standard är två |
-| git-arkiv | Anger platsen för det överordnade arkivet som används internt |
+| solution-title | Används i artikelrubriken som en länk |
+| solution-hub-url | Öppnar den centrala helpx-sidan |
+| solution-icon | Visar lösningsikonen bredvid lösningstiteln Inte implementerat ännu |
+| getting-started-url | Länk till startsidan i helpx |
+| tutorials-url | Länk till videosjälvstudiekurser – antingen helpx-självstudiekurser eller KT-självstudiekurser |
+| mini-toc-levels | Anger antalet rubriknivåer som visas i det högra fältet. standard är två |
+| git-repo | Anger platsen för det överordnade arkivet som används internt |
