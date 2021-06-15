@@ -2,14 +2,13 @@
 cloud: Experience Platform
 product: experience platform
 sub-product: Experience platform debugger
-solution: Experience Platform, Data Collection
+solution: Experience Platform, Data Collection, Debugger
 audience: end-user
 user-guide-title: Hjälp om felsökning för Experience Platform
 user-guide-description: Kontrollera om dina webbsidor innehåller problem med implementeringarna av Experience Platform.
 breadcrumb-title: Felsökningsguide för plattform
 index: true
-translation-type: tm+mt
-source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
+source-git-commit: b2298a5923c246fb6394af6bee76a8f24ea5ddd9
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 8%
