@@ -1,18 +1,17 @@
 ---
 description: Experience Platform Debugger Network screen
-keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+keywords: felsökning;Experience Platform Debugger extension;chrome;extension;network;information
 seo-description: Experience Platform Debugger Network screen
 seo-title: Nätverksinformation
 title: Nätverksinformation
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: ed0579ef-ec26-43df-9453-a395c105038a
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '236'
 ht-degree: 2%
 
 ---
-
 
 # Nätverk{#network}
 
