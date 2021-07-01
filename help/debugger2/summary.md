@@ -1,18 +1,17 @@
 ---
 description: Sammanfattningsskärm för felsökning i Experience Platform
-keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+keywords: felsökning;Experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;målgruppshanterare;starta;id service
 seo-description: Sammanfattningsskärm för felsökning i Experience Platform
 seo-title: Sammanfattningsskärm
 title: Sammanfattningsskärm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 91234125-15c4-4111-9ee4-f3af093a3c4d
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '979'
 ht-degree: 2%
 
 ---
-
 
 # Sammanfattningsskärm{#summary-screen}
 
@@ -28,7 +27,7 @@ Skärmen Adobe Experience Platform Debugger Summary visas.
 
 ![](assets/summary.jpg)
 
-På den här skärmen visas information om varje Adobe Experience Cloud-lösning. Den information som visas varierar beroende på lösning, men innehåller vanligtvis information som lösningsbiblioteket och version (till exempel&quot;AppMeasurement v2.9&quot;) och kontoidentifierare (till exempel Analytics-rapportens programpaket-ID, målklientkoden, Audience Manager partner-ID osv.)
+På den här skärmen visas information om varje Adobe Experience Cloud-lösning. Den information som visas varierar beroende på lösning, men omfattar vanligtvis information som lösningsbiblioteket och version (till exempel&quot;AppMeasurement v2.9&quot;) och kontoidentifierare (till exempel Analytics-rapportens programpaket-ID, målklientkoden, Audience Manager partner-ID osv.)
 
 ## Information som visas i felsökningsprogrammet för Experience Platform
 
@@ -40,19 +39,19 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Rapportsvit(er) </p> </td> 
-   <td colname="col2"> <p>En <a href="https://experiencecloud.adobe.com/resources/help/en_US/reference/report_suites_admin.html" format="html" scope="external"> rapportserie</a> definierar den fullständiga, oberoende rapporteringen på en vald webbplats, en uppsättning webbplatser eller en delmängd av webbsidor </p> </td> 
+   <td colname="col2"> <p>I <a href="https://experiencecloud.adobe.com/resources/help/en_US/reference/report_suites_admin.html" format="html" scope="external">-rapportsviten</a> definieras den fullständiga, oberoende rapporteringen på en vald webbplats, uppsättning webbplatser eller delmängd av webbsidor </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Den <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/appmeasure_mjs.html" format="html" scope="external"> AppMeasurement</a> -version som är definierad för sidan </p> </td> 
+   <td colname="col2"> <p>Versionen <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/appmeasure_mjs.html" format="html" scope="external"> AppMeasurement</a> som har definierats för sidan </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Besökarversion </p> </td> 
-   <td colname="col2"> <p>Versionen av <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> besökar-ID</a> -biblioteket. </p> </td> 
+   <td colname="col2"> <p>Versionen för <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> besökar-ID</a>-biblioteket. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Sidnamn </p> </td> 
-   <td colname="col2"> <p>Variabeln <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/pageName.html" format="html" scope="external"> pageName</a> som skickas till Analytics och som innehåller ett användarvänligt namn för webbplatsen. </p> </td> 
+   <td colname="col2"> <p>Variabeln <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/pageName.html" format="html" scope="external"> pageName</a> har skickats till Analytics som innehåller ett användarvänligt namn för webbplatsen. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Moduler </p> </td> 
@@ -67,15 +66,15 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Partner </p> </td> 
-   <td colname="col2"> <p>Partnernamnet <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_dil_get_partner.html" format="html" scope="external"></a> för instansen DIL </p> </td> 
+   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_dil_get_partner.html" format="html" scope="external">-partnernamnet</a> för DIL-instansen </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Versionsnumret<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_api_return_versions_dil.html" format="html" scope="external"> för</a> instansen DIL </p> </td> 
+   <td colname="col2"> <p>Versionsnumret<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_api_return_versions_dil.html" format="html" scope="external"></a> för instansen DIL </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p>Det <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="html" scope="external"> unika användar-ID</a> som är associerat med DIL-instansen </p> </td> 
+   <td colname="col2"> <p>Det unika användar-ID <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="html" scope="external"> som är associerat med DIL-instansen</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -86,19 +85,19 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Namn </p> </td> 
-   <td colname="col2"> <p>Namnet på plattformens Launch- <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> egenskap</a> </p> </td> 
+   <td colname="col2"> <p>Namnet på Platforma launchen <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> egenskap</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Turbinversionen</a> </p> </td> 
+   <td colname="col2"> <p>Version av turbin</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Skapad den </p> </td> 
-   <td colname="col2"> <p>Plattformstartbibliotekets <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"></a> byggdatum </p> </td> 
+   <td colname="col2"> <p>Platforma launchen <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> bibliotek</a> byggdatum </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Miljö </p> </td> 
-   <td colname="col2"> <p>Den <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> miljö</a> som används av plattformens startbibliotek </p> </td> 
+   <td colname="col2"> <p>Miljön <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"></a> som används av Platforma launchen bibliotek </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Tillägg </p> </td> 
@@ -113,7 +112,7 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Biblioteksversion </p> </td> 
-   <td colname="col2"> <p>Numret på Adobe Experience Platform Web SDK- <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">biblioteksversionen</a> </p> </td> 
+   <td colname="col2"> <p>Antalet Adobe Experience Platform Web SDK <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">biblioteksversion</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Namnutrymme</p> </td> 
@@ -121,7 +120,7 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
   </tr> 
   <tr> 
    <td colname="col1"> <p>Egenskaps-ID </p> </td> 
-   <td colname="col2"> <p>Namnet på plattformens startegenskap som anges i tillägget </p> </td> 
+   <td colname="col2"> <p>Namnet på den Platform launch-egenskap som anges i tillägget </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Edge Domain </p> </td> 
@@ -148,7 +147,7 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Versionen för<a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> besökar-ID</a> -biblioteket </p> </td> 
+   <td colname="col2"> <p>Versionen för besökar-ID<a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"></a>-biblioteket </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -159,7 +158,7 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Klientkod </p> </td> 
-   <td colname="col2"> <p>Din <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"> målklientkod </a> </p> </td> 
+   <td colname="col2"> <p>Ditt mål <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"> klientkod </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
@@ -167,7 +166,7 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
   </tr> 
   <tr> 
    <td colname="col1"> <p>Namn på global begäran </p> </td> 
-   <td colname="col2"> <p>Den<a href="https://docs.adobe.com/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> globala mbox</a> refererar till det enda serveranrop som görs högst upp på varje webbsida i Target-implementeringen </p> </td> 
+   <td colname="col2"> <p>Den globala <a href="https://docs.adobe.com/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">-rutan</a> refererar till det enda serveranropet som görs högst upp på varje webbsida i målinsimplementeringen </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Sidinläsningshändelse </p> </td> 
@@ -175,32 +174,31 @@ Felsökaren i Experience Platform visar följande information för varje lösnin
   </tr> 
   <tr> 
    <td colname="col1"> <p>Namn på begäran </p> </td> 
-   <td colname="col2"> <p>Namnet på en begäran runt en <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> plats</a> på sidan. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
+   <td colname="col2"> <p>Namnet på en begäran runt en <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> plats</a> på sidan. Endast tillgängligt utan autentisering om du implementerar felsökningshändelseavlyssnaren i koden eller tagghanteraren och aktiverar de nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Aktivitetsnamn </p> </td> 
-   <td colname="col2"> <p>Namnet på Target- <a href="https://docs.adobe.com/content/help/en/target/using/activities/activities.html" format="html" scope="external"> kampanjen eller -aktiviteten</a>. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
+   <td colname="col2"> <p>Namnet på målkampanjen <a href="https://docs.adobe.com/content/help/en/target/using/activities/activities.html" format="html" scope="external"> eller aktiviteten</a>. Endast tillgängligt utan autentisering om du implementerar felsökningshändelseavlyssnaren i koden eller tagghanteraren och aktiverar de nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Aktivitets-ID </p> </td> 
-   <td colname="col2"> <p>ID för målaktiviteten. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
+   <td colname="col2"> <p>ID för målaktiviteten. Endast tillgängligt utan autentisering om du implementerar felsökningshändelseavlyssnaren i koden eller tagghanteraren och aktiverar de nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Experience Name </p> </td> 
-   <td colname="col2"> <p>Namnet på Target- <a href="https://docs.adobe.com/content/help/en/target/using/experiences/experiences.html" format="html" scope="external"> upplevelsen</a>. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
+   <td colname="col2"> <p>Namnet på målupplevelsen <a href="https://docs.adobe.com/content/help/en/target/using/experiences/experiences.html" format="html" scope="external"></a>. Endast tillgängligt utan autentisering om du implementerar felsökningshändelseavlyssnaren i koden eller tagghanteraren och aktiverar de nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Experience ID </p> </td> 
-   <td colname="col2"> <p>ID för Target-upplevelsen. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
+   <td colname="col2"> <p>ID för Target-upplevelsen. Endast tillgängligt utan autentisering om du implementerar felsökningshändelseavlyssnaren i koden eller tagghanteraren och aktiverar de nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Namn på erbjudande</p> </td> 
-   <td colname="col2"> <p>Namnet på Target- <a href="https://docs.adobe.com/content/help/en/target/using/experiences/offers/manage-content.html" format="html" scope="external"> erbjudandet</a>. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
+   <td colname="col2"> <p>Namnet på målerbjudandet <a href="https://docs.adobe.com/content/help/en/target/using/experiences/offers/manage-content.html" format="html" scope="external"></a>. Endast tillgängligt utan autentisering om du implementerar felsökningshändelseavlyssnaren i koden eller tagghanteraren och aktiverar de nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Erbjudande-ID </p> </td> 
-   <td colname="col2"> <p>ID:t för Target-erbjudandet. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
+   <td colname="col2"> <p>ID:t för Target-erbjudandet. Endast tillgängligt utan autentisering om du implementerar felsökningshändelseavlyssnaren i koden eller tagghanteraren och aktiverar de nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
  </tbody> 
 </table>
-
