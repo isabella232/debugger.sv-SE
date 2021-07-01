@@ -1,16 +1,15 @@
 ---
 description: Om Experience Platform Auditor
-keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
+keywords: felsökare;felsökningstillägg för upplevelseplattform;krom;tillägg;revisor;dtm;target
 seo-description: Om Experience Platform Auditor
 title: Revisor
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '91'
 ht-degree: 1%
 
 ---
-
 
 # Revisor {#auditor}
 
@@ -18,9 +17,9 @@ ht-degree: 1%
 >
 >Adobe Experience Platform Debugger är för närvarande i betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
-Du kan använda Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) för att utföra en serie granskningar på din sida från Granskarskärmen.
+Du kan använda Adobe Experience Platform [Granskare](https://docs.adobe.com/content/help/en/auditor/using/overview.html) om du vill köra en serie granskningar på sidan från Granskarskärmen.
 
-1. Click **[!UICONTROL Auditor]** in the left nav.
+1. Klicka på **[!UICONTROL Auditor]** i den vänstra navigeringen.
 1. Klicka på **[!UICONTROL Run Auditor Tests]**.
 
 Testresultaten visas.
