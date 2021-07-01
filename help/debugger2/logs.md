@@ -1,18 +1,17 @@
 ---
 description: Experience Platform Debugger Logs screen
-keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+keywords: felsökning;Experience Platform Debugger extension;chrome;extension;logs
 seo-description: Experience Platform Debugger Logs screen
 seo-title: Loggar
 title: Loggar
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 137a97f2-7e02-4e09-b4c9-e48e20e044d1
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '165'
 ht-degree: 2%
 
 ---
-
 
 # Loggar{#logs}
 
@@ -39,6 +38,6 @@ På loggskärmen visas information i fyra kolumner:
 
 **[!UICONTROL Log message]:** Beskriver problemet.
 
-Vissa loggmeddelanden innehåller alternativet Visa kod. Klicka **[!UICONTROL Show Code]** för att visa villkorskoden som avgör om en regel ska utlösas.
+Vissa loggmeddelanden innehåller alternativet Visa kod. Klicka på **[!UICONTROL Show Code]** för att visa villkorskoden som avgör om en regel ska utlösas.
 
 Om du vill rensa loggen klickar du på **[!UICONTROL Remove Logs]**.
