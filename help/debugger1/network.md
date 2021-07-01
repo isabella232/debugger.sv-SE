@@ -1,18 +1,17 @@
 ---
 description: Experience Cloud Debugger Network Information screen
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
+keywords: felsökning;upplev felsökningstillägg i molnet;kroma;tillägg;nätverk;information
 seo-description: Experience Cloud Debugger Network Information screen
 seo-title: Nätverksinformation
 title: Nätverksinformation
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '226'
 ht-degree: 2%
 
 ---
-
 
 # Nätverksinformation{#network-information}
 
@@ -41,4 +40,3 @@ Klicka på ett objekt i nätverksvyn för att se det större. I det utökade vis
 Använd ikonen längst upp i varje kolumn för att kopiera serveranropets URL till Urklipp, där du kan klistra in den i ett annat dokument för referens- eller felsökningsändamål.
 
 ![](assets/copy.jpg)
-
