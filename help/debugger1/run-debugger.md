@@ -5,14 +5,13 @@ seo-description: Löpande Experience Cloud Debugger
 seo-title: Sammanfattningsskärm
 title: Sammanfattningsskärm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 2%
 
 ---
-
 
 # Sammanfattningsskärm{#summary-screen}
 
@@ -220,4 +219,3 @@ Experience Cloud Debugger visar följande information för varje lösning:
   </tr> 
  </tbody> 
 </table>
-
