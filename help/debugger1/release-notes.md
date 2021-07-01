@@ -5,14 +5,13 @@ seo-description: Versionsinformation för Experience Cloud Debugger
 seo-title: Versionsinformation
 title: Versionsinformation
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
 source-wordcount: '732'
 ht-degree: 5%
 
 ---
-
 
 # Versionsinformation{#release-notes}
 
@@ -67,7 +66,7 @@ ht-degree: 5%
 * Experience Cloud Debugger-sidfoten har uppdaterats
 * Ett problem där inaktuell terminologi användes för Target har korrigerats
 
-## Version 0.0.809, 28 februari 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
+## Version 0.0.809 28 februari 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
 
 ## Nya funktioner {#section-14036b9f2c0144fdac5e292ea42ce564}
 
@@ -232,7 +231,7 @@ Version 0.0.803 innehåller inga kundtillvända ändringar.
 * Ett problem har korrigerats där märkesnumret inte rensades
 * Ett problem där en kund rapporterade tomma sammanfattningsdetaljer har korrigerats
 
-## Version 0.0.797, 25 maj 2018 {#topic-51490f4f42aa40eb879663fad9d62916}
+## Version 0.0.797 25 maj 2018 {#topic-51490f4f42aa40eb879663fad9d62916}
 
 ## Nya funktioner {#section-bbf8ff7e000e4b5592d348e0870471f6}
 
@@ -262,4 +261,3 @@ Version 0.0.803 innehåller inga kundtillvända ändringar.
   </tr> 
  </tbody> 
 </table>
-
