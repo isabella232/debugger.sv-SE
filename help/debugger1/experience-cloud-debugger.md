@@ -28,7 +28,7 @@ Ovanstående steg utförs inte nödvändigtvis i den ordningen, men det är en v
 
 Även om du kan köra felsökaren på en webbsida är alla icke-offentliga data bara tillgängliga i tillägget om du autentiseras i Experience Cloud på någon av dina öppna Chrome-flikar.
 
-## Använd fall {#section-9fcd0583ed184943a8f0c2d3c00658e0}
+## Användningsexempel {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
 Använd Felsökning för att samla in information som hjälper dig att förstå hur dina Experience Cloud-lösningar implementeras. Exempel:
 
