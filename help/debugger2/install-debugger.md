@@ -1,18 +1,17 @@
 ---
 description: Installera felsökaren för Experience Platform
-keywords: debugger;experience Platform Debugger extension;chrome;extension;install
+keywords: felsökning;Experience Platform Debugger extension;chrome;extension;install
 seo-description: Installera felsökaren för Experience Platform
 seo-title: Installera Experience Platform Debugger
 title: Installera Experience Platform Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: add83773-dad7-4abe-9740-a69eb8fadbc3
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # Installera Adobe Experience Platform Debugger{#install-experience-platform-debugger}
 
@@ -22,12 +21,11 @@ ht-degree: 0%
 
 Hämta och installera Adobe Experience Platform Debugger.
 
-* **Krom:** Från sidan med [Chrome-tillägg](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* **Firefox:** Från sidan [Firefox-tillägg](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
+* **Chrome:** Från  [Chrome-tilläggssidan](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
+* **Firefox:** Från sidan med tillägg till  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
 
 När du har installerat Chrome-tillägget eller Firefox-tillägget läggs en ikon till i tilläggsfältet:
 
 ![](assets/start-icon.jpg)
 
 Klicka på ikonen för att starta Felsökning för Experience Platform.
-
