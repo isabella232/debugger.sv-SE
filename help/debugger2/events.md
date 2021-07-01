@@ -1,17 +1,16 @@
 ---
 description: Skärm för felsökningshändelser i Experience Platform
-keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+keywords: felsökare;felsökningstillägg för upplevelseplattform;krom;tillägg;händelser;dtm;target
 seo-description: Skärm för felsökningshändelser i Experience Platform
 seo-title: Händelser
 title: Händelser
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
-
 
 # Händelser{#events}
 
@@ -42,8 +41,8 @@ Så här aktiverar du spårning av datalagerändringar på tidslinjen:
 
 1. Klicka på **[!UICONTROL Save]**.
 
-Information om datalagrets ändringar visar allt som har tagits bort eller lagts till. Du kan klicka på **{}** om du vill se mer detaljerad ut i datalagret.
+Information om datalagrets ändringar visar allt som har tagits bort eller lagts till. Du kan klicka på **{}** om du vill söka djupare i datalagret.
 
 ## Hämta händelseinformation
 
-Klicka **[!UICONTROL Download]** för att ladda ned en Excel-fil med information om dina sidsamtal.
+Klicka på **[!UICONTROL Download]** om du vill hämta en Excel-fil med information om dina sidsamtal.
