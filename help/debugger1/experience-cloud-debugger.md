@@ -6,9 +6,9 @@ seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Adobe Experience Cloud Debugger Extension
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
-source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
+source-git-commit: 3b07bfe5764b46a2510b577df8978a35a753ab7b
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '255'
 ht-degree: 5%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->Det finns en ny version av felsökaren. Den nya Adobe Experience Platform Debugger finns [här](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob).
+>Det finns en ny version av felsökaren. Information om de senaste funktionerna finns i [Adobe Experience Platform Debugger-dokumentation](../debugger2/experience-cloud-debugger.md).
 
-The [Adobe Experience Cloud Debugger extension for Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) undersöker dina webbsidor och hjälper dig att hitta problem med hur dina Experience Cloud-lösningar implementeras.
+The [Adobe Experience Cloud Debugger extension for Chrome](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob) undersöker dina webbsidor och hjälper dig att hitta problem med hur dina Experience Cloud-lösningar implementeras.
 
 Använd Adobe Experience Cloud Debugger-tillägget tillsammans med andra Adobe-aktiveringslösningar för ett arbetsflöde som följande:
 
-1. Använd [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html) för att infoga kod som aktiveras [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) lösningar på era sidor.
+1. Använd [taggar](https://experienceleague.adobe.com/docs/launch/using/home.html) för att infoga kod som aktiveras [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) lösningar på era sidor.
 1. Använd Adobe Experience Platform Auditor för att testa implementeringarna.
 1. Använd tillägget Adobe Experience Cloud Debugger för att felsöka problem som Auditor har hittat eller för att undersöka annan information om implementeringarna.
 
