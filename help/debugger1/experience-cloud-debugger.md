@@ -6,9 +6,9 @@ seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Adobe Experience Cloud Debugger Extension
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
-source-git-commit: bb3891dabd8721fe9e81bffac8e97fd2866b676b
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '262'
 ht-degree: 5%
 
 ---
@@ -24,8 +24,7 @@ The [Adobe Experience Cloud Debugger extension for Chrome](https://chrome.google
 Använd Adobe Experience Cloud Debugger-tillägget tillsammans med andra Adobe-aktiveringslösningar för ett arbetsflöde som följande:
 
 1. Använd [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html) för att infoga kod som aktiveras [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) lösningar på era sidor.
-
-1. Använd [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) för att testa implementeringarna.
+1. Använd Adobe Experience Platform Auditor för att testa implementeringarna.
 1. Använd tillägget Adobe Experience Cloud Debugger för att felsöka problem som Auditor har hittat eller för att undersöka annan information om implementeringarna.
 
 Ovanstående steg utförs inte nödvändigtvis i den ordningen, men det är en vanlig process.

@@ -1,29 +1,28 @@
 ---
-description: Om Experience Platform Auditor
-keywords: felsökare;felsökningstillägg för upplevelseplattform;krom;tillägg;revisor;dtm;target
-seo-description: Om Experience Platform Auditor
 title: Revisor
+description: Lär dig hur du använder fliken Granskare i Adobe Experience Platform Debugger för att testa dina Adobe Experience Cloud-implementeringar.
+keywords: felsökare;felsökningstillägg för upplevelseplattform;krom;tillägg;revisor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 1%
+source-wordcount: '111'
+ht-degree: 0%
 
 ---
 
-# Revisor {#auditor}
+# Revisor
 
 >[!IMPORTANT]
 >
 >Adobe Experience Platform Debugger är för närvarande i betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
 
-Du kan använda Adobe Experience Platform [Granskare](https://docs.adobe.com/content/help/en/auditor/using/overview.html) om du vill köra en serie granskningar på sidan från Granskarskärmen.
+I Adobe Experience Platform Debugger kan du använda **[!UICONTROL Auditor]** för att köra en serie granskningstester på sidan.
 
-1. Klicka på **[!UICONTROL Auditor]** i den vänstra navigeringen.
-1. Klicka på **[!UICONTROL Run Auditor Tests]**.
+Så här använder du den här funktionen:
 
-Testresultaten visas.
+1. Välj **[!UICONTROL Auditor]** i den vänstra navigeringen.
+1. Välj **[!UICONTROL Run Auditor Tests]**. När testerna är klara visas resultaten nedan.
 
-![](assets/auditor-results.jpg)
+![Skärmbild av testresultat på fliken Granskare](./assets/auditor-results.png)
 
 I resultatlistan visas testet och dess resultat, och förslag på hur du kan lösa eventuella problem.
