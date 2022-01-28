@@ -1,15 +1,15 @@
 ---
-description: Versionsinformation om felsökning för Experience Platform
-keywords: felsökning;Experience Platform Debugger extension;chrome;extension;release notes
+description: Experience Platform Debugger release notes
+keywords: debugger;experience Platform Debugger extension;chrome;extension;release notes
 seo-description: Experience Platform Debugger release notes
 seo-title: Release Notes
 title: Versionsinformation
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 026ce852ded530e89f36bb01274d7481e07731c0
+source-git-commit: 3cff0a4199d58fa18b89af42d77813f38f30b512
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 7%
+source-wordcount: '287'
+ht-degree: 2%
 
 ---
 
@@ -17,71 +17,31 @@ ht-degree: 7%
 
 ## Versionsinformation {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
-## Version 1.2.0 October 26, 2021
+## Version 1.3.0 - 28 januari 2022
 
-## Nya funktioner
+* Added About link to show current release version and notes.
+* Tillagd växel för att visa efterbearbetade träffar för Analytics-begäranden. The toggle is available in the Analytics section.
+* Fixed remote debugging session issue when session was closed outside of the debugger.
+* Fixed error notification that was visible in the Web SDK Edge Transactions tab.
+* Adobe-taggar på sidborttagningsvarning har åtgärdats när felsökaren använde _satellit-objektet.
+* Korrigerade vissa fall där en AppMeasurement-instans inte hittades på sidan.
+* Ett problem med sidanslutningen som uppstod när felsökningsfönstret öppnades för första gången har åtgärdats.
 
-<table id="table">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> Funktion </th>
-   <th colname="col2" class="entry"> Beskrivning </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> Händelser från alla webbläsarflikar som visas i nätverksvyn </p> </td>
-   <td colname="col2"> <p> Show events from all browser tabs in the network view. Om du bara vill visa händelser från den aktuella fliken klickar du på låsikonen i det nedre högra hörnet av felsökaren.</p> </td>
-  </tr>
-  <tr>
-   <td colname="col1"> <p> Varumärkesändringar </p> </td>
-   <td colname="col2"> <p> AEP Web SDK blir Adobe Experience Platform Web SDK och Launch blir Adobe Experience Platform-taggar.</p> </td>
-  </tr>
- </tbody>
-</table>
+## Version 1.2.0 - 26 oktober 2021
 
-## Version 1.1.0 5 oktober 2021
+* Visa händelser från alla webbläsarflikar i nätverksvyn. To only see the events from the current tab, click on the lock icon in the lower right corner of the debugger.
+* Updated branding.
 
-## Nya funktioner
+## Version 1.1.0 - 5 oktober 2021
 
-<table id="table">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> Funktion </th>
-   <th colname="col2" class="entry"> Beskrivning </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> Remote debugging visualization </p> </td>
-   <td colname="col2"> <p> Organize the remote debugging events into a visual flow chart in the Adobe Experience Platform Web SDK &gt; Edge Transactions section. Kräv dessutom att den IMS-organisation för Adobe Experience Platform Web SDK som används på sidan matchar den inloggade organisationen när du startar en ny fjärrfelsökningssession. Filter edge transactions by the connected tab.</p> <p> <b>Obs!</b> Målspårningsloggar är fortfarande tillgängliga i avsnittet Loggar &gt; Edge.</p> </td>
-  </tr>
-  <tr>
-   <td colname="col1"> <p> Förbättringar i konfigurationsavsnittet för Adobe Experience Platform Web SDK </p> </td>
-   <td colname="col2"> <p> Tillåt att separata ID-konfigurationer för dataström åsidosätts för varje instans på sidan. Växla till Lägg till felsökning aktiverat.</p> </td>
-  </tr>
- </tbody>
-</table>
+* Visualisering av fjärrfelsökning - Ordna fjärrfelsökningshändelserna i ett visuellt flödesschema i Adobe Experience Platform Web SDK > Edge Transactions.
+* Kräv att den IMS-organisation för Adobe Experience Platform Web SDK som används på sidan matchar den inloggade organisationen när en ny fjärrfelsökningssession startas.
+* Only show the edge transactions for the connected tab.
 
-## Felkorrigeringar
-
-* Fixed an issue where the Adobe Target trace token was not always sent with remote debugging sessions for the Adobe Experience Platform Web SDK.
+> **Obs!** Målspårningsloggar är fortfarande tillgängliga i avsnittet Loggar > Edge.
+* Tillåt att olika ID-konfigurationer för dataström åsidosätts för varje instans av Adobe Experience Platform Web SDK på sidan. Växla till Lägg till felsökning aktiverat.
+* Ett problem har korrigerats där Adobe Target trace-token inte alltid skickades med fjärrfelsökningssessioner för Adobe Experience Platform Web SDK.
 
 ## Version 1.0.0 May 5, 2021
 
-## Nya funktioner
-
-<table id="table_7EFCAF456B14404FAF3715FC56519AAF">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> Funktion </th>
-   <th colname="col2" class="entry"> Beskrivning </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> Inledande version </p> </td>
-   <td colname="col2"> <p> Första huvudversionen av felsökaren för Experience Platform. Avsedd att ersätta Experience Cloud Debugger. </p> </td>
-  </tr>
- </tbody>
-</table>
+* Första huvudversionen av felsökaren för Experience Platform. Intended to replace the Experience Cloud Debugger.
