@@ -1,30 +1,35 @@
 ---
 cloud: Experience Platform
 product: experience platform
-sub-product: Experience platform debugger
+sub-product: experience platform debugger
 solution: Experience Platform, Data Collection, Debugger
 audience: end-user
 user-guide-title: Hjälp om felsökning för Experience Platform
-user-guide-description: Kontrollera om dina webbsidor innehåller problem med implementeringarna av Experience Platform.
+user-guide-description: Kontrollera om dina webbsidor innehåller problem med Experience Platform-implementeringarna.
 breadcrumb-title: Felsökningsguide för plattform
 index: true
-source-git-commit: b2298a5923c246fb6394af6bee76a8f24ea5ddd9
+source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 8%
+source-wordcount: '55'
+ht-degree: 9%
 
 ---
 
 
 # Hjälp om felsökning för Experience Platform {#using-v2}
 
-+ [Adobe Experience Platform Debugger Extension](experience-cloud-debugger.md)
-+ [Versionsinformation](release-notes.md)
-+ [Installera Experience Platform Debugger](install-debugger.md)
-+ [Konfigurera felsökning för Experience Platform](configure-debugger.md)
-+ [Sammanfattningsskärm](summary.md)
-+ [Lösningar](solutions.md)
-+ [Loggar](logs.md)
-+ [Nätverk](network.md)
-+ [Händelser](events.md)
-+ [Revisor](auditor.md)
+* [Adobe Experience Platform Debugger Extension](experience-cloud-debugger.md)
+* [Versionsinformation](release-notes.md)
+* [Installera Experience Platform Debugger](install-debugger.md)
+* [Konfigurera felsökning för Experience Platform](configure-debugger.md)
+* [Sammanfattningsskärm](summary.md)
+* [Lösningar](solutions.md)
+* [Loggar](logs.md)
+* [Nätverk](network.md)
+* [Händelser](events.md)
+* Revisor {#auditor}
+   * [Översikt](./auditor/overview.md)
+   * [Konsekvenskontroll för taggar](./auditor/tag-consistency.md)
+   * [Tagga närvarotester](./auditor/tag-presence.md)
+   * [Konfigurationstester](./auditor/configuration.md)
+   * [Varningstester](./auditor/alerts.md)

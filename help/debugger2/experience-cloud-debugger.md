@@ -6,7 +6,7 @@ seo-title: Adobe Experience Platform Debugger Chrome and Firefox Extension
 title: Adobe Experience Platform Debugger Extension
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
-source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
+source-git-commit: af031b800b991e0e906e9abda88992f093c58fbc
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 4%
@@ -24,7 +24,7 @@ Adobe Experience Platform Debugger-tillägget för [Krom](https://chrome.google.
 Du kan använda Platform Debugger tillsammans med andra Adobe-aktiveringslösningar för att utföra följande:
 
 1. Använd [taggar](https://experienceleague.adobe.com/docs/launch/using/home.html) i användargränssnittet för datainsamling för att infoga kod som aktiveras [Adobe Experience Cloud](https://docs.adobe.com/content/help/sv-SE/core-services/interface/experience-cloud.html) på sidorna.
-1. Använd [**[!UICONTROL Auditor]**tab](./auditor.md) i Platform Debugger för att testa implementeringarna.
+1. Använd [**[!UICONTROL Auditor]**tab](./auditor/overview.md) i Platform Debugger för att testa implementeringarna.
 1. Använd händelsebaserade och lösningsspecifika verktyg i Platform Debugger för att felsöka problem som hittats av Auditor eller för att undersöka annan information om era implementeringar.
 
 >[!NOTE]
