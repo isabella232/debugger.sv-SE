@@ -1,14 +1,12 @@
 ---
 description: Versionsinformation för Experience Cloud Debugger
 keywords: felsökning;upplev felsökningstillägg i molnet;kroma;tillägg;versionsinformation
-seo-description: Versionsinformation för Experience Cloud Debugger
-seo-title: Versionsinformation
-title: Versionsinformation
+title: Versionsinformation Experience Cloud Debugger
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '727'
 ht-degree: 5%
 
 ---
@@ -31,7 +29,7 @@ ht-degree: 5%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Träff-data efter bearbetning </p> </td> 
-   <td colname="col2"> <p> Lagt till möjligheten att visa <a href="solutions.md#section-f71dfcc22bb44c86bec328491606a482" format="dita" scope="local">-värden i analysträffar efter att bearbetningsreglerna har körts</a>. </p> </td> 
+   <td colname="col2"> <p> Lagt till möjlighet att <a href="solutions.md#section-f71dfcc22bb44c86bec328491606a482" format="dita" scope="local"> visa värden i analysträffar efter att bearbetningsregler har körts</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -50,7 +48,7 @@ ht-degree: 5%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Adobe Experience Platform Auditor-tester </p> </td> 
-   <td colname="col2"> <p> <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">-plattformsgranskningstester</a> har lagts till i Experience Cloud Debugger </p> </td> 
+   <td colname="col2"> <p> Tillagd <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Plattformsgranskningstester</a> till Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
@@ -221,7 +219,7 @@ Version 0.0.803 innehåller inga kundtillvända ändringar.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uppdatera hjälplänk i sidfot </p> </td> 
-   <td colname="col2"> <p>Uppdatera hjälplänken i sidfoten till https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html<a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html" format="https" scope="external"></a> </p> </td> 
+   <td colname="col2"> <p>Uppdatera hjälplänken i sidfoten till <a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>

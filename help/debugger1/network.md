@@ -2,13 +2,13 @@
 description: Experience Cloud Debugger Network Information screen
 keywords: felsökning;upplev felsökningstillägg i molnet;kroma;tillägg;nätverk;information
 seo-description: Experience Cloud Debugger Network Information screen
-seo-title: Nätverksinformation
-title: Nätverksinformation
+seo-title: Network Information
+title: Nätverksinformation Experience Cloud Debugger
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '221'
 ht-degree: 2%
 
 ---
