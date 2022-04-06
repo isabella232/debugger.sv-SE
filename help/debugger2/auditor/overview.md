@@ -1,20 +1,16 @@
 ---
-title: Revisor
+title: Fliken Granskare
 description: Lär dig hur du använder fliken Granskare i Adobe Experience Platform Debugger för att testa dina Adobe Experience Cloud-implementeringar.
 keywords: felsökare;felsökningstillägg för upplevelseplattform;krom;tillägg;revisor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '358'
 ht-degree: 9%
 
 ---
 
-# Revisor
-
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger är för närvarande i betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+# Fliken Granskare
 
 I Adobe Experience Platform Debugger kan du använda **[!UICONTROL Auditor]** för att köra en serie granskningstester på sidan.
 

@@ -1,31 +1,23 @@
 ---
-description: Installera felsökaren för Experience Platform
+title: Installera plattformsfelsökning
+description: Lär dig hur du installerar Adobe Experience Platform Debugger.
 keywords: felsökning;Experience Platform Debugger extension;chrome;extension;install
-seo-description: Installera felsökaren för Experience Platform
-seo-title: Installera Experience Platform Debugger
-title: Installera Experience Platform Debugger
+seo-description: How to Install Experience Platform Debugger
+seo-title: Install Experience Platform Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 exl-id: add83773-dad7-4abe-9740-a69eb8fadbc3
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# Installera Adobe Experience Platform Debugger{#install-experience-platform-debugger}
+# Installera plattformsfelsökning
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger är för närvarande i betaversion. Dokumentationen och funktionaliteten kan komma att ändras.
+Adobe Experience Platform Debugger kan installeras i webbläsarna Google Chrome och Mozilla Firefox Följ lämplig länk nedan för att installera tillägget i den webbläsare du föredrar:
 
-Hämta och installera Adobe Experience Platform Debugger.
+* [Krom](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
+* [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
 
-* **Chrome:** Från  [Chrome-tilläggssidan](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* **Firefox:** Från sidan med tillägg till  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
-
-När du har installerat Chrome-tillägget eller Firefox-tillägget läggs en ikon till i tilläggsfältet:
-
-![](assets/start-icon.jpg)
-
-Klicka på ikonen för att starta Felsökning för Experience Platform.
+När du har installerat Chrome-tillägget eller Firefox-tillägget visas en ikon (![](assets/start-icon.jpg)) läggs till i tilläggsfältet. Med den här ikonen öppnar du tillägget.
