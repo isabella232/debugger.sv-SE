@@ -1,9 +1,10 @@
 ---
-source-git-commit: 8ee7a5d7878652a4b8d27a0255baf8f67f36f20d
+source-git-commit: 7c154c35fa8b1a704d291f6307704d6ea122f21c
 workflow-type: tm+mt
-translation-type: tm+mt
-source-wordcount: '6'
+source-wordcount: '9'
 ht-degree: 0%
 
 ---
-# Teknisk dokumentation för felsökning i Experience Platform
+# debugger.en is archived
+
+https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html
