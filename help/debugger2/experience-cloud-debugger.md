@@ -9,17 +9,17 @@ exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
 source-git-commit: 5e6481c6f4b0ffe64440b1c550511fbf155a19b4
 workflow-type: tm+mt
 source-wordcount: '270'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
 # Adobe Experience Platform Debugger - översikt
 
-Adobe Experience Platform Debugger-tillägget för [Krom](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) och [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/) undersöker dina webbsidor och hjälper dig att hitta problem med hur dina Adobe Experience Cloud-lösningar implementeras.
+Adobe Experience Platform Debugger-tillägget för [Krom](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) och [Firefox](https://addons.mozilla.org/sv-SE/firefox/addon/adobe-experience-platform-dbg/) undersöker dina webbsidor och hjälper dig att hitta problem med hur dina Adobe Experience Cloud-lösningar implementeras.
 
 Du kan använda Platform Debugger tillsammans med andra Adobe-aktiveringslösningar för att utföra följande:
 
-1. Använd [taggar](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) i användargränssnittet för datainsamling för att infoga kod som aktiveras [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) på sidorna.
+1. Använd [taggar](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=sv) i användargränssnittet för datainsamling för att infoga kod som aktiveras [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) på sidorna.
 1. Använd [**[!UICONTROL Auditor]**tab](./auditor/overview.md) i Platform Debugger för att testa implementeringarna.
 1. Använd händelsebaserade och lösningsspecifika verktyg i Platform Debugger för att felsöka problem som hittats av Auditor eller för att undersöka annan information om era implementeringar.
 

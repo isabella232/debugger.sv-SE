@@ -4,19 +4,19 @@ product: experience platform
 sub-product: experience platform debugger
 solution: Data Collection, Debugger
 audience: end-user
-user-guide-title: Hjälp om felsökning för Experience Platform
+user-guide-title: Hjälp med Experience Platform Debugger
 user-guide-description: Kontrollera om dina webbsidor innehåller problem med Experience Platform-implementeringarna.
 breadcrumb-title: Felsökningsguide för plattform
 index: true
 source-git-commit: b4f705ad457ff5841f1610a01e2e8e40cd54f894
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 9%
+ht-degree: 45%
 
 ---
 
 
-# Hjälp om felsökning för Experience Platform {#using-v2}
+# Hjälp med Experience Platform Debugger {#using-v2}
 
 * [Adobe Experience Platform Debugger Extension](experience-cloud-debugger.md)
 * [Versionsinformation](release-notes.md)

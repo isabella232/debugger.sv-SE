@@ -27,7 +27,7 @@ Analysskärmen innehåller information om [Analyser](https://experienceleague.ad
 
 ![](assets/analytics.jpg)
 
-## Målgrupp {#section-988873ba5ede4317953193bd7ac5474c}
+## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
 Använd målskärmen för att visa [Mål](https://experienceleague.adobe.com/docs/target/using/target-home.html) förfrågningar eller [mboxTrace](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html#section_256FCF7C14BB435BA2C68049EF0BA99E) svarsinformation.
 

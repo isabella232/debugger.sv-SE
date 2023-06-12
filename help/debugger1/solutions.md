@@ -59,7 +59,7 @@ När det här alternativet är aktiverat läggs en felsökningsparameter till i 
 
 För de flesta Analytics-implementeringar är informationen för efterbearbetningsreglerna tillgänglig inom några minuter. Analyserna för Target-implementering (A4T) tar betydligt längre tid.
 
-## Målgrupp {#section-988873ba5ede4317953193bd7ac5474c}
+## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
 Använd fliken Mål för att visa [Mål](https://docs.adobe.com/content/help/en/target/using/target-home.html) förfrågningar eller [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) svarsinformation.
 
@@ -119,7 +119,7 @@ Klicka **[!UICONTROL Clear All Requests]** för att ta bort de begäranden som v
 
 ## Experience Cloud ID-tjänst {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
-Använd fliken Experience Cloud ID-tjänst för att visa [Experience Cloud ID-tjänst](https://docs.adobe.com/content/help/en/id-service/using/home.html) förfrågningar.
+Använd fliken Experience Cloud ID-tjänst för att visa [Experience Cloud ID-tjänst](https://docs.adobe.com/content/help/sv-SE/id-service/using/home.html) förfrågningar.
 
 Klicka **[!UICONTROL Requests]** expanderar du sedan miljön för att visa information om Experience Cloud ID-tjänsten.
 

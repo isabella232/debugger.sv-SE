@@ -4,7 +4,7 @@ description: Lär dig hur granskaren testar varningar i Adobe Experience Platfor
 exl-id: ac6f8675-6c34-48b4-b5dd-48e92af217fd
 source-git-commit: 2223e29de6876639c5dbffda4954e114dcd32521
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '694'
 ht-degree: 2%
 
 ---
@@ -31,4 +31,4 @@ Varningar visar problem som du bör vara medveten om, men som inte påverkar dit
 | Launch - ska distribueras asynkront | 0 | Taggar ska distribueras asynkront för optimala prestanda. | Inkludera `async` parametern i det infogade skriptet för att säkerställa korrekt taggfunktionalitet <br><br>[Ytterligare information](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/asynchronous-deployment.html) |
 | Mål - Innehåll i `mboxDefault` | 0 | Innehållet ska finnas i `mboxDefault` när `at.js`. | Kontrollera att innehållet är tillgängligt. <br><br>[Ytterligare information](https://experienceleague.adobe.com/docs/target/using/implement-target/implementing-target.html) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}

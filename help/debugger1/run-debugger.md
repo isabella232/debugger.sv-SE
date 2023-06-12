@@ -9,7 +9,7 @@ exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
 source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
 source-wordcount: '1066'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -37,7 +37,7 @@ Du kan använda verktyget Spela upp granskare för att köra en serie granskning
 
 ## Information som visas i Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
-Experience Cloud Debugger visar följande information för varje lösning:
+Experience Cloud Debugger shows the following information for each solution:
 
 **Sidinformation**
 
@@ -52,8 +52,8 @@ Experience Cloud Debugger visar följande information för varje lösning:
    <td colname="col2"> <p>URL för sidan </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Titel </p> </td> 
-   <td colname="col2"> <p>The name specified in the <span class="codeph"> &lt;TITLE&gt;</span> tag </p> </td> 
+   <td colname="col1"> <p>Title </p> </td> 
+   <td colname="col2"> <p>Namnet som anges i taggen <span class="codeph"> &lt;TITLE&gt;</span> </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -80,7 +80,7 @@ Experience Cloud Debugger visar följande information för varje lösning:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Moduler </p> </td> 
-   <td colname="col2"> <p>Modulerna som läses in av Adobe Analytics </p> </td> 
+   <td colname="col2"> <p>The modules loaded by Adobe Analytics </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -122,11 +122,11 @@ Experience Cloud Debugger visar följande information för varje lösning:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Miljö </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> miljö</a> används av Platforma launchen </p> </td> 
+   <td colname="col2"> <p>Den <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> miljö </a> som används av Platforma launchens bibliotek </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Skriptkatalog </p> </td> 
-   <td colname="col2"> <p>Katalogen där Platforma launchen lagras </p> </td> 
+   <td colname="col1"> <p>Script Directory </p> </td> 
+   <td colname="col2"> <p>The directory where the Platform Launch script is stored </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -153,7 +153,7 @@ Experience Cloud Debugger visar följande information för varje lösning:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Skriptkatalog </p> </td> 
-   <td colname="col2"> <p>Katalogen där DTM-skriptet lagras </p> </td> 
+   <td colname="col2"> <p>The directory where the DTM script is stored </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -164,11 +164,11 @@ Experience Cloud Debugger visar följande information för varje lösning:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud organisation-ID </p> </td> 
-   <td colname="col2"> <p>Dina <a href="https://docs.adobe.com/content/help/en/id-service/using/home.html" format="https" scope="external"> Organisations-ID</a> </p> </td> 
+   <td colname="col2"> <p>Dina <a href="https://docs.adobe.com/content/help/sv-SE/id-service/using/home.html" format="https" scope="external"> Organisations-ID</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Versionen av<a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external"> besökar-ID</a> bibliotek </p> </td> 
+   <td colname="col2"> <p>Versionen för <a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external"> besökar-ID </a>-biblioteket </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -194,8 +194,8 @@ Experience Cloud Debugger visar följande information för varje lösning:
    <td colname="col2"> <p>Namnet på en mbox runt en <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> plats</a> på sidan. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar den nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Aktivitetsnamn </p> </td> 
-   <td colname="col2"> <p>Namnet på målet <a href="https://docs.adobe.com/content/help/en/target/using/activities/activities.html" format="html" scope="external"> kampanj eller aktivitet</a>. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar den nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
+   <td colname="col1"> <p>Activity Name </p> </td> 
+   <td colname="col2"> <p>Namnet på Target <a href="https://docs.adobe.com/content/help/en/target/using/activities/activities.html" format="html" scope="external"> -kampanjen eller -aktiviteten </a>. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar de nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken </a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Aktivitets-ID </p> </td> 
@@ -210,12 +210,12 @@ Experience Cloud Debugger visar följande information för varje lösning:
    <td colname="col2"> <p>ID för målreceptet. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar den nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Erbjudande </p> </td> 
+   <td colname="col1"> <p>Offer </p> </td> 
    <td colname="col2"> <p>Namnet på målet <a href="https://docs.adobe.com/content/help/en/target/using/experiences/offers/manage-content.html" format="html" scope="external"> erbjudande</a>. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar den nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Erbjudande-ID </p> </td> 
-   <td colname="col2"> <p>ID:t för Target-erbjudandet. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar den nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken</a> i målgränssnittet. </p> </td> 
+   <td colname="col2"> <p>The ID of the Target offer. Endast tillgängligt utan autentisering om du implementerar händelseavlyssnaren för felsökning i koden eller tagghanteraren och aktiverar de nödvändiga <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> svarstoken </a> i målgränssnittet. </p> </td> 
   </tr> 
  </tbody> 
 </table>
